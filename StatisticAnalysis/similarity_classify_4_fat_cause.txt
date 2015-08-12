@@ -1,0 +1,62 @@
+Original:31
+Processed:10
+[
+' Crushed/run-over of non-operator by operating cons'
+' Electric shock, other and unknown cause'
+' Other'
+]
+,
+[
+' Wall (earthen) collapse'
+' Trench collapse'
+' Fall from roof'
+' Collapse of structure'
+]
+,
+[
+' Crushed/run-over by construction equipment during'
+' Crushed/run-over/trapped of operator by operating'
+' Electrocution by equipment contacting wire'
+' Electrocution from equipment installation/tool use'
+' Caught in stationary equipment'
+]
+,
+[
+' Fall, other'
+' Drown, non-lethal fall'
+' Struck by falling object/projectile'
+' Fall through opening (other than roof)'
+]
+,
+[
+' Fire/explosion'
+' Asphyxiation/inhalation of toxic vapor'
+' Electrocution by touching exposed wire/source'
+' Heat/hypothermia'
+]
+,
+[
+' Unloading-loading equipment/material (except by cr'
+'Non record'
+]
+,
+[
+' Fall from/with platform catwalk (attached to struc'
+' Fall from/with ladder'
+' Fall from/with scaffold'
+' Fall from vehicle (vehicle/construction equipment)'
+' Fall from/with structure (other than roof)'
+' Fall from/with bucket (aerial lift/basket)'
+]
+,
+[
+' Lifting operations'
+]
+,
+[
+' Elevator (struck by elevator or counter-weights)'
+]
+,
+[
+' Crushed/run-over by highway vehicle'
+]

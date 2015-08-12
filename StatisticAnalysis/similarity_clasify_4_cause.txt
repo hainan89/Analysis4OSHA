@@ -1,0 +1,121 @@
+Original:72
+Processed:16 Tasks
+[
+' Surveying'
+' Plastering'
+' Site grading and rock removal'
+' Interior carpentry'
+]
+,
+[
+' Interior tile work (ceramic, vinyl, acoustic)'
+' Swimming pool construction'
+' Installation Of Decking-Initial Laying Deck (Incl'
+' Exterior carpentry'
+' Pouring concrete floor at grade'
+' Paving'
+' Pouring or installing floor decks'
+' Pouring concrete for piers, and pylons'
+' Landscaping'
+' Pouring concrete foundations and walls'
+' Waterproofing'
+' Exterior masonry'
+' Roofing'
+]
+,
+[
+' Interior plumbing, ducting, electrical work'
+' Installation Of Decking-Final Attachment Deck (Wel'
+' Elevator, escalator installation'
+' Cutting concrete pavement'
+' Exterior painting'
+' Installation Of Decking-Flashing Of Decking'
+' Installing interior walls, ceilings, doors'
+' Other Activities-Post Decking Detail Work'
+' Steel Erection Of Open Web Steel Joists-Welding/Bu'
+' Installing windows and doors, glazing'
+' Stripping and curing concrete'
+' Exterior cladding'
+' Steel Erection Of Open Web Steel Joists-Bolting-Up'
+' Steel Erection Of Open Web Steel Joists-Connecting'
+' Bituminous concrete placement'
+' Steel Erection Of Open Web Steel Joists-Plumbing-U'
+' Installing metal siding'
+' Interior masonry'
+]
+,
+[
+' Other Activities-Installing Ornamental And Archite'
+' Steel Erection Of Solid Web-Welding/Burning/Grindi'
+' Steel Erection Of Solid Web-Bolting-Up/Detail Work'
+' Steel Erection Of Solid Web-Plumbing-Up'
+' Forming'
+' Steel Erection Of Solid Web-Connecting'
+' Forming for piers or pylons'
+]
+,
+[
+' Placing bridge deck'
+' Erecting structural steel'
+' Steel Erection Of Solid Web-Landing Materials (Hoi'
+' Seawall construction, riprap placement'
+]
+,
+[
+' Dredging'
+' Demolition'
+' Excavation'
+]
+,
+[
+' Steel Erection Of Open Web Steel Joists-Moving Poi'
+' Steel Erection Of Solid Web-Moving Point To Point'
+' Steel Erection Of Open Web Steel Joists-Landing Ma'
+' Erection of coffer dams, caissons'
+]
+,
+[
+' Construction of playing fields, tennis courts'
+' Temporary work (buildings, facilities)'
+]
+,
+[
+'Non record'
+]
+,
+[
+' Site clearing and grubbing'
+' Installing culverts and incidental drainage'
+' Interior painting and decorating'
+]
+,
+[
+' Fireproofing'
+' Installing equipment (HVAC and other)'
+' Installing plumbing, lighting fixtures'
+' Trenching, installing pipe'
+]
+,
+[
+' Installing underground plumbing conduit'
+' Installation Of Decking-Hoisting Bundles'
+' Fencing, installing lights, signs, etc.'
+]
+,
+[
+' Loading dock forming and pouring'
+' Placing bridge girders and beams'
+' Emplacing reinforcing steel'
+]
+,
+[
+' Traffic protection'
+]
+,
+[
+' Pile driving'
+]
+,
+[
+' Backfilling and compacting'
+]

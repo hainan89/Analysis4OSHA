@@ -1,0 +1,202 @@
+Original Amount of Classes: 141
+Processed Amount of Classes: 20
+[
+'Misc. electrical & electronic equipment repairers'
+'Sheetmetal duct installers'
+'Precision assemblers, metal'
+'Hoist and winch operators'
+'Miscellaneous material moving equipment operators'
+'Painters, construction and maintenance'
+'Welders and cutters'
+'Freight, stock and material handlers, n.e.c.'
+'Production helpers'
+'Crane and tower operators'
+'Sheet metal workers'
+'Supervisors; painters, paperhangers and plasterers'
+'Supervisors, material moving equipment operators'
+'Janitors and cleaners'
+'Industrial engineering technicians'
+'Sawing machine operators'
+'Assemblers'
+'Industrial engineers'
+'Painting and paint spraying machine operators'
+'Machinery maintenance occupations'
+'Electrical and electronic technicians'
+'Helpers, mechanics and repairers'
+'Engineering technicians, n.e.c.'
+'Carpenter apprentices'
+'Plasterers'
+'Supervisors; electricians & power transm. install.'
+'Sheet metal worker apprentices'
+'Miscellaneous plant and system operators'
+'Mechanical engineers'
+'Lay-out workers'
+'Communications equipment operators, n.e.c.'
+'Miscellaneous precision metal workers'
+'Structural metal workers'
+'Industrial truck and tractor equipment operators'
+'Helpers, construction trades'
+'Farm workers'
+'Supervisors, mechanics and repairers'
+'Mechanical engineering technicians'
+'Insulation Workers'
+'Hand molders and shapers, except jewelers'
+'Computer systems analysts and scientists'
+'Heavy equipment mechanics'
+'Operating engineers'
+'Hand packers and packagers'
+'Specified mechanics and repairers'
+'Brickmasons and stonemasons apprentices'
+'Millwrights'
+'Supervisors, cleaning and building service workers'
+]
+,
+[
+'Groundskeepers and gardeners, except farm'
+'Supervisors, extractive occupations'
+'Forestry workers, except logging'
+'Painters, sculptors, craft-artists & printmakers'
+'Supervisors; plumbers, pipefitters & steamfitters'
+'Occupational therapists'
+'Drillers, earth'
+'Carpenters'
+'Supervisors, production occupations'
+'Plumber, pipefitter and steamfiter apprentices'
+'Inspectors, testers and graders'
+'Helpers, extractive occupations'
+'Brickmasons and stonemasons'
+'Technicians, n.e.c.'
+'Supervisors and proprietors, sales occupations'
+'Supervisors; brickmasons, stonemasons, tilesetters'
+'Managers and administrators, n.e.c'
+'Science technicians, n.e.c.'
+'Supervisors; carpenters and related workers'
+'Electricians' apprentices'
+'Supervisors, forestry and logging workers'
+]
+,
+[
+'Machine operators, not specified'
+'Electrical power installers and repairers'
+'Supervisors, motor vehicle operators'
+'Grader, dozer and scraper operators'
+'Stock handlers and baggers'
+'Vehicle washers and equipment cleaners'
+'Trade and industrial teachers'
+'Mining machine operators'
+'Drilling and boring machine operators'
+'Not specified mechanics and repairers'
+'Elevator installers and repairers'
+'Paving, surfacing and tamping equipment operators'
+]
+,
+[
+'Sociology teachers'
+'Supervisors; handlers,equip-cleaners,laborers nec'
+'Graders and sorters, except agricultural'
+'Supervisors, n.e.c.'
+'Political science teachers'
+'Supervisors, related agricultural occupations'
+'Miscellaneous hand working occupations'
+]
+,
+[
+'Carpet installers'
+'Adjusters and calibrators'
+'Miscellaneous precision woodworkers'
+'Sales engineers'
+'Telephone line installers and repairers'
+'Tile setters, hard and soft'
+'Telephone installers and repairers'
+'Drywall installers'
+'Cabinet makers and bench carpenters'
+'Roofers'
+'Electricians'
+'Plumbers, pipefitters and steamfitters'
+'Glaziers'
+]
+,
+[
+'Hand cutting and trimming occupations'
+'Fire inspection and fire prevention occupations'
+'Timber cutting and logging occupations'
+'Sales occupations, other business services'
+'Construction trades, n.e.c.'
+'Hand painting, coating and decorating occupations'
+'Management related occupations, n.e.c.'
+]
+,
+[
+'Truck drivers, light'
+'Truck drivers, heavy'
+'Bus, truck and stationary engine mechanics'
+]
+,
+[
+'Photographers'
+'Managers, marketing, advertising, & public rela.'
+'Optometrists'
+]
+,
+[
+'Insurance adjusters, examiners and investigators'
+'Police and detectives, public service'
+'Civil engineers'
+]
+,
+[
+'Motor transportation occuputions n.e.c.'
+'Miscellaneous precision workers, n.e.c.'
+'Electronic repairers, communica. & indus. equip.'
+'Misc. metal,plastic,stone&glass-working; mach. op's'
+]
+,
+[
+'Non record'
+'Drillers, oil well'
+]
+,
+[
+'Occupation not reported'
+]
+,
+[
+'Sales counter clerks'
+'Traffic, shipping and receiving clerks'
+'Supervisors; distrib., sched'g & adjusting clerks'
+]
+,
+[
+'Concrete and terrazzo finishers'
+'Heating, air conditioning, and refrig. mechanics'
+'Water and sewage treatment plant operators'
+]
+,
+[
+'Construction laborers'
+'Excavating and loading machine operators'
+'Laborers, except construction'
+]
+,
+[
+'Data processing equipment repairers'
+'Supervisors, food preparation & service occupation'
+]
+,
+[
+'Tool and die makers'
+'Lathe and turning machine set-up operators'
+]
+,
+[
+'Sales workers, hardware and building supplies'
+]
+,
+[
+'Construction inspectors'
+'Boilermakers'
+]
+,
+[
+'Supervisors, firefighting & fire prevention occupa'
+]

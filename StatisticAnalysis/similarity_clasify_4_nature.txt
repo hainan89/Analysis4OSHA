@@ -1,0 +1,48 @@
+Original：23
+Processed:8
+[
+'Poisoning(Systemic)'
+'Burn/Scald(Heat)'
+'Asphyxia'
+'Amputation'
+'Burn(Chemical)'
+'Hernia'
+'Puncture'
+'Fracture'
+]
+,
+[
+'Electric Shock'
+'Heat Exhaustion'
+]
+,
+[
+'Cancer'
+'Radiation Effects'
+'Concussion'
+]
+,
+[
+'Foreign Body Ineye'
+]
+,
+[
+'Dislocation'
+'Hearing Loss'
+]
+,
+[
+'Other'
+]
+,
+[
+'Bruise/Contus/Abras'
+'Strain/Sprain'
+'Cut/Laceration'
+'Freezing/Frost Bite'
+]
+,
+[
+'Non record'
+'Dermatitis'
+]

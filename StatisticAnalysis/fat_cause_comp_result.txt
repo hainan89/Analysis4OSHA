@@ -1,0 +1,961 @@
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Crushed/run-over of non-operator by operating cons, 4.894896857049527
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Wall (earthen) collapse, 1.6956726969049198
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Crushed/run-over by construction equipment during, 2.573259170417133
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Electric shock, other and unknown cause, 3.0779999273188694
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Crushed/run-over/trapped of operator by operating, 4.345344843874005
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Fall, other, 2.6801201201004057
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Other, 3.174751433568866
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Drown, non-lethal fall, 2.610349576984503
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Trench collapse, 1.7014959950091368
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Electrocution by equipment contacting wire, 3.0470778076898273
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Fire/explosion, 3.3835926018061
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Unloading-loading equipment/material (except by cr, 3.6887817904810665
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Electrocution from equipment installation/tool use, 3.472106255117115
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Fall from/with platform catwalk (attached to struc, 2.4768354639237575
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Asphyxiation/inhalation of toxic vapor, 3.5847862702967355
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Fall from roof, 2.5719927725544
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Fall from/with ladder, 1.7842805694477926
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Collapse of structure, 1.9474835758048374
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Fall from/with scaffold, 1.8011397388333488
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Lifting operations, 2.3860962853026297
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons, Non record, 3.5496153284087555
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Elevator (struck by elevator or counter-weights), 3.095224203263682
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Electrocution by touching exposed wire/source, 3.7729097599347177
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Caught in stationary equipment, 2.2199511665571654
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Crushed/run-over by highway vehicle, 3.6666020640721686
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Struck by falling object/projectile, 2.4730060353868497
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Fall through opening (other than roof), 3.104358865622455
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Heat/hypothermia, 4.079297844775858
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Fall from vehicle (vehicle/construction equipment), 2.707677599179998
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Fall from/with structure (other than roof), 2.235057728527526
+row, col, comp_r,  Crushed/run-over of non-operator by operating cons,  Fall from/with bucket (aerial lift/basket), 2.0458578811108916
+row, col, comp_r,  Wall (earthen) collapse,  Crushed/run-over of non-operator by operating cons, 1.6916803181827884
+row, col, comp_r,  Wall (earthen) collapse,  Wall (earthen) collapse, 4.868981067363471
+row, col, comp_r,  Wall (earthen) collapse,  Crushed/run-over by construction equipment during, 2.112225456044477
+row, col, comp_r,  Wall (earthen) collapse,  Electric shock, other and unknown cause, 2.10832408971164
+row, col, comp_r,  Wall (earthen) collapse,  Crushed/run-over/trapped of operator by operating, 2.2721779441955774
+row, col, comp_r,  Wall (earthen) collapse,  Fall, other, 1.9371000554504711
+row, col, comp_r,  Wall (earthen) collapse,  Other, 1.5976388584608292
+row, col, comp_r,  Wall (earthen) collapse,  Drown, non-lethal fall, 2.2811421895529342
+row, col, comp_r,  Wall (earthen) collapse,  Trench collapse, 4.30591866791318
+row, col, comp_r,  Wall (earthen) collapse,  Electrocution by equipment contacting wire, 2.1410533889769567
+row, col, comp_r,  Wall (earthen) collapse,  Fire/explosion, 2.1629865125330454
+row, col, comp_r,  Wall (earthen) collapse,  Unloading-loading equipment/material (except by cr, 2.6756176350132823
+row, col, comp_r,  Wall (earthen) collapse,  Electrocution from equipment installation/tool use, 1.9750407117544604
+row, col, comp_r,  Wall (earthen) collapse,  Fall from/with platform catwalk (attached to struc, 3.1610631965905283
+row, col, comp_r,  Wall (earthen) collapse,  Asphyxiation/inhalation of toxic vapor, 2.4276489838957693
+row, col, comp_r,  Wall (earthen) collapse,  Fall from roof, 3.6305590295460113
+row, col, comp_r,  Wall (earthen) collapse,  Fall from/with ladder, 2.4753449558823037
+row, col, comp_r,  Wall (earthen) collapse,  Collapse of structure, 4.52894007958484
+row, col, comp_r,  Wall (earthen) collapse,  Fall from/with scaffold, 3.098745621389886
+row, col, comp_r,  Wall (earthen) collapse,  Lifting operations, 1.9282523105407638
+row, col, comp_r,  Wall (earthen) collapse, Non record, 1.6135187729153508
+row, col, comp_r,  Wall (earthen) collapse,  Elevator (struck by elevator or counter-weights), 3.877890732124723
+row, col, comp_r,  Wall (earthen) collapse,  Electrocution by touching exposed wire/source, 3.2886968582030875
+row, col, comp_r,  Wall (earthen) collapse,  Caught in stationary equipment, 2.4145852162929557
+row, col, comp_r,  Wall (earthen) collapse,  Crushed/run-over by highway vehicle, 2.048186996565464
+row, col, comp_r,  Wall (earthen) collapse,  Struck by falling object/projectile, 3.2432350758223376
+row, col, comp_r,  Wall (earthen) collapse,  Fall through opening (other than roof), 3.6241826683637037
+row, col, comp_r,  Wall (earthen) collapse,  Heat/hypothermia, 2.3753755726791
+row, col, comp_r,  Wall (earthen) collapse,  Fall from vehicle (vehicle/construction equipment), 2.627658103959723
+row, col, comp_r,  Wall (earthen) collapse,  Fall from/with structure (other than roof), 3.7165132947963597
+row, col, comp_r,  Wall (earthen) collapse,  Fall from/with bucket (aerial lift/basket), 2.7513024951926277
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Crushed/run-over of non-operator by operating cons, 2.5917843937267113
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Wall (earthen) collapse, 2.1200321108834554
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Crushed/run-over by construction equipment during, 4.658426154972046
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Electric shock, other and unknown cause, 2.1818083830969766
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Crushed/run-over/trapped of operator by operating, 3.2288320897616214
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Fall, other, 2.429342902837009
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Other, 1.8596868075524422
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Drown, non-lethal fall, 2.1549572573150555
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Trench collapse, 2.215985768066226
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Electrocution by equipment contacting wire, 3.296520264705497
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Fire/explosion, 2.024221996072833
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Unloading-loading equipment/material (except by cr, 2.4491534320773316
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Electrocution from equipment installation/tool use, 3.4440954263121535
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Fall from/with platform catwalk (attached to struc, 2.5994245166776078
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Asphyxiation/inhalation of toxic vapor, 2.1111021109847297
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Fall from roof, 3.4951998727329334
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Fall from/with ladder, 1.9961240984250304
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Collapse of structure, 2.173456872901304
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Fall from/with scaffold, 3.3246003691205
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Lifting operations, 3.394845028800254
+row, col, comp_r,  Crushed/run-over by construction equipment during, Non record, 2.0843322514062117
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Elevator (struck by elevator or counter-weights), 2.3433809503448386
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Electrocution by touching exposed wire/source, 2.193620086359291
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Caught in stationary equipment, 3.2606015194800513
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Crushed/run-over by highway vehicle, 2.865383537878178
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Struck by falling object/projectile, 2.0639095800221003
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Fall through opening (other than roof), 2.70894439236005
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Heat/hypothermia, 1.904328055858743
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Fall from vehicle (vehicle/construction equipment), 3.2951809258722897
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Fall from/with structure (other than roof), 2.5706378289990144
+row, col, comp_r,  Crushed/run-over by construction equipment during,  Fall from/with bucket (aerial lift/basket), 2.694856519930273
+row, col, comp_r,  Electric shock, other and unknown cause,  Crushed/run-over of non-operator by operating cons, 3.0827189002994833
+row, col, comp_r,  Electric shock, other and unknown cause,  Wall (earthen) collapse, 2.1154718780729653
+row, col, comp_r,  Electric shock, other and unknown cause,  Crushed/run-over by construction equipment during, 2.178045985563641
+row, col, comp_r,  Electric shock, other and unknown cause,  Electric shock, other and unknown cause, 4.823423089896791
+row, col, comp_r,  Electric shock, other and unknown cause,  Crushed/run-over/trapped of operator by operating, 2.715762423120247
+row, col, comp_r,  Electric shock, other and unknown cause,  Fall, other, 3.1836659439240558
+row, col, comp_r,  Electric shock, other and unknown cause,  Other, 3.919106549755672
+row, col, comp_r,  Electric shock, other and unknown cause,  Drown, non-lethal fall, 2.63485266560662
+row, col, comp_r,  Electric shock, other and unknown cause,  Trench collapse, 2.0580523796220174
+row, col, comp_r,  Electric shock, other and unknown cause,  Electrocution by equipment contacting wire, 2.827762966839366
+row, col, comp_r,  Electric shock, other and unknown cause,  Fire/explosion, 2.622684581574057
+row, col, comp_r,  Electric shock, other and unknown cause,  Unloading-loading equipment/material (except by cr, 2.5653994215133444
+row, col, comp_r,  Electric shock, other and unknown cause,  Electrocution from equipment installation/tool use, 2.9449130708434845
+row, col, comp_r,  Electric shock, other and unknown cause,  Fall from/with platform catwalk (attached to struc, 1.662831506800746
+row, col, comp_r,  Electric shock, other and unknown cause,  Asphyxiation/inhalation of toxic vapor, 3.404428797505411
+row, col, comp_r,  Electric shock, other and unknown cause,  Fall from roof, 2.5950827931510836
+row, col, comp_r,  Electric shock, other and unknown cause,  Fall from/with ladder, 1.766581270841464
+row, col, comp_r,  Electric shock, other and unknown cause,  Collapse of structure, 1.854896500103792
+row, col, comp_r,  Electric shock, other and unknown cause,  Fall from/with scaffold, 1.9937410401833005
+row, col, comp_r,  Electric shock, other and unknown cause,  Lifting operations, 1.4194463210863237
+row, col, comp_r,  Electric shock, other and unknown cause, Non record, 2.3405702454413033
+row, col, comp_r,  Electric shock, other and unknown cause,  Elevator (struck by elevator or counter-weights), 1.9938609468564024
+row, col, comp_r,  Electric shock, other and unknown cause,  Electrocution by touching exposed wire/source, 3.0930037965892487
+row, col, comp_r,  Electric shock, other and unknown cause,  Caught in stationary equipment, 2.669995918986806
+row, col, comp_r,  Electric shock, other and unknown cause,  Crushed/run-over by highway vehicle, 2.7863907845124265
+row, col, comp_r,  Electric shock, other and unknown cause,  Struck by falling object/projectile, 2.345801154327444
+row, col, comp_r,  Electric shock, other and unknown cause,  Fall through opening (other than roof), 2.6133441474935233
+row, col, comp_r,  Electric shock, other and unknown cause,  Heat/hypothermia, 1.5719445831254057
+row, col, comp_r,  Electric shock, other and unknown cause,  Fall from vehicle (vehicle/construction equipment), 2.536666975558787
+row, col, comp_r,  Electric shock, other and unknown cause,  Fall from/with structure (other than roof), 2.1821704501981305
+row, col, comp_r,  Electric shock, other and unknown cause,  Fall from/with bucket (aerial lift/basket), 1.6872635137399044
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Crushed/run-over of non-operator by operating cons, 4.347824634858815
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Wall (earthen) collapse, 2.277096505039753
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Crushed/run-over by construction equipment during, 3.2091419056352555
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Electric shock, other and unknown cause, 2.7071407443539943
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Crushed/run-over/trapped of operator by operating, 4.8344444402620725
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Fall, other, 2.6661289707368616
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Other, 2.4565599403633276
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Drown, non-lethal fall, 2.453898619203396
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Trench collapse, 1.9871728904511847
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Electrocution by equipment contacting wire, 3.950030466888533
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Fire/explosion, 2.656141237749218
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Unloading-loading equipment/material (except by cr, 4.1016996020382885
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Electrocution from equipment installation/tool use, 3.6012271954204103
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Fall from/with platform catwalk (attached to struc, 2.5783330379892906
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Asphyxiation/inhalation of toxic vapor, 2.5983456595587944
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Fall from roof, 2.712202027700697
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Fall from/with ladder, 2.3309067060571307
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Collapse of structure, 2.985944112397687
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Fall from/with scaffold, 2.5547664594170536
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Lifting operations, 3.5751674857906193
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating, Non record, 2.115749663418611
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Elevator (struck by elevator or counter-weights), 3.4610711617965775
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Electrocution by touching exposed wire/source, 3.866213224833985
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Caught in stationary equipment, 3.4206336754153193
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Crushed/run-over by highway vehicle, 2.893262653849572
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Struck by falling object/projectile, 3.293599699894273
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Fall through opening (other than roof), 2.7820200361590235
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Heat/hypothermia, 3.5316487232670797
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Fall from vehicle (vehicle/construction equipment), 2.8278405035602128
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Fall from/with structure (other than roof), 2.427851649983513
+row, col, comp_r,  Crushed/run-over/trapped of operator by operating,  Fall from/with bucket (aerial lift/basket), 2.9699770131639327
+row, col, comp_r,  Fall, other,  Crushed/run-over of non-operator by operating cons, 2.69851946355229
+row, col, comp_r,  Fall, other,  Wall (earthen) collapse, 1.949880076082636
+row, col, comp_r,  Fall, other,  Crushed/run-over by construction equipment during, 2.4270850854231885
+row, col, comp_r,  Fall, other,  Electric shock, other and unknown cause, 3.193465638681247
+row, col, comp_r,  Fall, other,  Crushed/run-over/trapped of operator by operating, 2.6883458735308836
+row, col, comp_r,  Fall, other,  Fall, other, 4.801489318071795
+row, col, comp_r,  Fall, other,  Other, 4.425333735434818
+row, col, comp_r,  Fall, other,  Drown, non-lethal fall, 4.145898788662352
+row, col, comp_r,  Fall, other,  Trench collapse, 2.029931112138163
+row, col, comp_r,  Fall, other,  Electrocution by equipment contacting wire, 2.060172949644784
+row, col, comp_r,  Fall, other,  Fire/explosion, 1.756526793657342
+row, col, comp_r,  Fall, other,  Unloading-loading equipment/material (except by cr, 3.190130934543511
+row, col, comp_r,  Fall, other,  Electrocution from equipment installation/tool use, 2.2110736036060854
+row, col, comp_r,  Fall, other,  Fall from/with platform catwalk (attached to struc, 3.5870563256848067
+row, col, comp_r,  Fall, other,  Asphyxiation/inhalation of toxic vapor, 2.200157752787259
+row, col, comp_r,  Fall, other,  Fall from roof, 4.116738480184799
+row, col, comp_r,  Fall, other,  Fall from/with ladder, 3.9287097718320534
+row, col, comp_r,  Fall, other,  Collapse of structure, 1.8748514861327588
+row, col, comp_r,  Fall, other,  Fall from/with scaffold, 4.014217197679638
+row, col, comp_r,  Fall, other,  Lifting operations, 1.5657021448562252
+row, col, comp_r,  Fall, other, Non record, 2.4291526888428523
+row, col, comp_r,  Fall, other,  Elevator (struck by elevator or counter-weights), 2.2120568965024776
+row, col, comp_r,  Fall, other,  Electrocution by touching exposed wire/source, 1.9967284326104702
+row, col, comp_r,  Fall, other,  Caught in stationary equipment, 2.398165672182784
+row, col, comp_r,  Fall, other,  Crushed/run-over by highway vehicle, 2.3142393947055773
+row, col, comp_r,  Fall, other,  Struck by falling object/projectile, 3.4410253622356195
+row, col, comp_r,  Fall, other,  Fall through opening (other than roof), 3.978382173409033
+row, col, comp_r,  Fall, other,  Heat/hypothermia, 1.56597193141125
+row, col, comp_r,  Fall, other,  Fall from vehicle (vehicle/construction equipment), 3.9696373630264783
+row, col, comp_r,  Fall, other,  Fall from/with structure (other than roof), 3.9247825731754244
+row, col, comp_r,  Fall, other,  Fall from/with bucket (aerial lift/basket), 3.174337242713478
+row, col, comp_r,  Other,  Crushed/run-over of non-operator by operating cons, 3.1860798091123277
+row, col, comp_r,  Other,  Wall (earthen) collapse, 1.6084520846976782
+row, col, comp_r,  Other,  Crushed/run-over by construction equipment during, 1.8638225782541613
+row, col, comp_r,  Other,  Electric shock, other and unknown cause, 3.9184730878607876
+row, col, comp_r,  Other,  Crushed/run-over/trapped of operator by operating, 2.4756595894968143
+row, col, comp_r,  Other,  Fall, other, 4.423368891810693
+row, col, comp_r,  Other,  Other, 4.92295725243466
+row, col, comp_r,  Other,  Drown, non-lethal fall, 2.550542960503286
+row, col, comp_r,  Other,  Trench collapse, 1.6727068102330214
+row, col, comp_r,  Other,  Electrocution by equipment contacting wire, 2.4541703623726336
+row, col, comp_r,  Other,  Fire/explosion, 1.7326468853458852
+row, col, comp_r,  Other,  Unloading-loading equipment/material (except by cr, 2.7465157570558194
+row, col, comp_r,  Other,  Electrocution from equipment installation/tool use, 2.7751985238764267
+row, col, comp_r,  Other,  Fall from/with platform catwalk (attached to struc, 2.0190302755182445
+row, col, comp_r,  Other,  Asphyxiation/inhalation of toxic vapor, 2.4227468244346553
+row, col, comp_r,  Other,  Fall from roof, 2.14069898546746
+row, col, comp_r,  Other,  Fall from/with ladder, 1.8340579044688572
+row, col, comp_r,  Other,  Collapse of structure, 1.4980762252193114
+row, col, comp_r,  Other,  Fall from/with scaffold, 1.924995729256033
+row, col, comp_r,  Other,  Lifting operations, 1.6655681589075524
+row, col, comp_r,  Other, Non record, 2.169189524006816
+row, col, comp_r,  Other,  Elevator (struck by elevator or counter-weights), 1.8546409387304572
+row, col, comp_r,  Other,  Electrocution by touching exposed wire/source, 2.5909513688523362
+row, col, comp_r,  Other,  Caught in stationary equipment, 3.552467008744026
+row, col, comp_r,  Other,  Crushed/run-over by highway vehicle, 2.241905673116082
+row, col, comp_r,  Other,  Struck by falling object/projectile, 2.30608376287614
+row, col, comp_r,  Other,  Fall through opening (other than roof), 3.6598595696009553
+row, col, comp_r,  Other,  Heat/hypothermia, 1.5493448840242008
+row, col, comp_r,  Other,  Fall from vehicle (vehicle/construction equipment), 2.366340321486744
+row, col, comp_r,  Other,  Fall from/with structure (other than roof), 3.538624782337215
+row, col, comp_r,  Other,  Fall from/with bucket (aerial lift/basket), 1.7760686136044521
+row, col, comp_r,  Drown, non-lethal fall,  Crushed/run-over of non-operator by operating cons, 2.62423048455946
+row, col, comp_r,  Drown, non-lethal fall,  Wall (earthen) collapse, 2.2963898803884555
+row, col, comp_r,  Drown, non-lethal fall,  Crushed/run-over by construction equipment during, 2.151174304846578
+row, col, comp_r,  Drown, non-lethal fall,  Electric shock, other and unknown cause, 2.6388474570587994
+row, col, comp_r,  Drown, non-lethal fall,  Crushed/run-over/trapped of operator by operating, 2.4701956087272103
+row, col, comp_r,  Drown, non-lethal fall,  Fall, other, 4.143876439516537
+row, col, comp_r,  Drown, non-lethal fall,  Other, 2.549514275628661
+row, col, comp_r,  Drown, non-lethal fall,  Drown, non-lethal fall, 4.879412324776452
+row, col, comp_r,  Drown, non-lethal fall,  Trench collapse, 2.466538532901512
+row, col, comp_r,  Drown, non-lethal fall,  Electrocution by equipment contacting wire, 2.306521617974732
+row, col, comp_r,  Drown, non-lethal fall,  Fire/explosion, 2.369654634473222
+row, col, comp_r,  Drown, non-lethal fall,  Unloading-loading equipment/material (except by cr, 2.2639746312898668
+row, col, comp_r,  Drown, non-lethal fall,  Electrocution from equipment installation/tool use, 3.2653883330190787
+row, col, comp_r,  Drown, non-lethal fall,  Fall from/with platform catwalk (attached to struc, 2.444498672567199
+row, col, comp_r,  Drown, non-lethal fall,  Asphyxiation/inhalation of toxic vapor, 3.4754679897174494
+row, col, comp_r,  Drown, non-lethal fall,  Fall from roof, 4.271567208398757
+row, col, comp_r,  Drown, non-lethal fall,  Fall from/with ladder, 2.4975702355167426
+row, col, comp_r,  Drown, non-lethal fall,  Collapse of structure, 1.7500749099564032
+row, col, comp_r,  Drown, non-lethal fall,  Fall from/with scaffold, 2.7581098137837374
+row, col, comp_r,  Drown, non-lethal fall,  Lifting operations, 1.8737583938328222
+row, col, comp_r,  Drown, non-lethal fall, Non record, 2.0349906356335623
+row, col, comp_r,  Drown, non-lethal fall,  Elevator (struck by elevator or counter-weights), 1.8511028165776382
+row, col, comp_r,  Drown, non-lethal fall,  Electrocution by touching exposed wire/source, 2.5479816334418004
+row, col, comp_r,  Drown, non-lethal fall,  Caught in stationary equipment, 2.6297839141378043
+row, col, comp_r,  Drown, non-lethal fall,  Crushed/run-over by highway vehicle, 3.1995168652043566
+row, col, comp_r,  Drown, non-lethal fall,  Struck by falling object/projectile, 3.9428679726411664
+row, col, comp_r,  Drown, non-lethal fall,  Fall through opening (other than roof), 3.7036296549508645
+row, col, comp_r,  Drown, non-lethal fall,  Heat/hypothermia, 2.657264586896443
+row, col, comp_r,  Drown, non-lethal fall,  Fall from vehicle (vehicle/construction equipment), 3.9710812897963006
+row, col, comp_r,  Drown, non-lethal fall,  Fall from/with structure (other than roof), 2.1114261142906985
+row, col, comp_r,  Drown, non-lethal fall,  Fall from/with bucket (aerial lift/basket), 3.030565001359874
+row, col, comp_r,  Trench collapse,  Crushed/run-over of non-operator by operating cons, 1.6995400143722992
+row, col, comp_r,  Trench collapse,  Wall (earthen) collapse, 4.3127872868078585
+row, col, comp_r,  Trench collapse,  Crushed/run-over by construction equipment during, 2.207410712340096
+row, col, comp_r,  Trench collapse,  Electric shock, other and unknown cause, 2.0531646145658735
+row, col, comp_r,  Trench collapse,  Crushed/run-over/trapped of operator by operating, 1.9920621320913536
+row, col, comp_r,  Trench collapse,  Fall, other, 2.024388315689825
+row, col, comp_r,  Trench collapse,  Other, 1.663971877403812
+row, col, comp_r,  Trench collapse,  Drown, non-lethal fall, 2.4604345069115334
+row, col, comp_r,  Trench collapse,  Trench collapse, 4.981984499263591
+row, col, comp_r,  Trench collapse,  Electrocution by equipment contacting wire, 2.177352867182459
+row, col, comp_r,  Trench collapse,  Fire/explosion, 1.9689187989878163
+row, col, comp_r,  Trench collapse,  Unloading-loading equipment/material (except by cr, 1.8498383005587113
+row, col, comp_r,  Trench collapse,  Electrocution from equipment installation/tool use, 1.8930071916891427
+row, col, comp_r,  Trench collapse,  Fall from/with platform catwalk (attached to struc, 2.2632125119275037
+row, col, comp_r,  Trench collapse,  Asphyxiation/inhalation of toxic vapor, 2.4978674558581275
+row, col, comp_r,  Trench collapse,  Fall from roof, 3.0974270320225465
+row, col, comp_r,  Trench collapse,  Fall from/with ladder, 1.8763992411812307
+row, col, comp_r,  Trench collapse,  Collapse of structure, 4.751779612378235
+row, col, comp_r,  Trench collapse,  Fall from/with scaffold, 2.0164249827602965
+row, col, comp_r,  Trench collapse,  Lifting operations, 2.1144785262358097
+row, col, comp_r,  Trench collapse, Non record, 1.6659960453958136
+row, col, comp_r,  Trench collapse,  Elevator (struck by elevator or counter-weights), 1.9203737920549746
+row, col, comp_r,  Trench collapse,  Electrocution by touching exposed wire/source, 2.2478501565448066
+row, col, comp_r,  Trench collapse,  Caught in stationary equipment, 1.944287258729188
+row, col, comp_r,  Trench collapse,  Crushed/run-over by highway vehicle, 1.8252794097472633
+row, col, comp_r,  Trench collapse,  Struck by falling object/projectile, 2.5017703053013274
+row, col, comp_r,  Trench collapse,  Fall through opening (other than roof), 2.331617712637008
+row, col, comp_r,  Trench collapse,  Heat/hypothermia, 1.8897984527568252
+row, col, comp_r,  Trench collapse,  Fall from vehicle (vehicle/construction equipment), 2.120759683184649
+row, col, comp_r,  Trench collapse,  Fall from/with structure (other than roof), 2.17023039579209
+row, col, comp_r,  Trench collapse,  Fall from/with bucket (aerial lift/basket), 2.0243849657711506
+row, col, comp_r,  Electrocution by equipment contacting wire,  Crushed/run-over of non-operator by operating cons, 3.0546846102016154
+row, col, comp_r,  Electrocution by equipment contacting wire,  Wall (earthen) collapse, 2.1489705230157505
+row, col, comp_r,  Electrocution by equipment contacting wire,  Crushed/run-over by construction equipment during, 3.287332364005109
+row, col, comp_r,  Electrocution by equipment contacting wire,  Electric shock, other and unknown cause, 2.830379991184447
+row, col, comp_r,  Electrocution by equipment contacting wire,  Crushed/run-over/trapped of operator by operating, 3.951138484245112
+row, col, comp_r,  Electrocution by equipment contacting wire,  Fall, other, 2.0503781838779336
+row, col, comp_r,  Electrocution by equipment contacting wire,  Other, 2.4478462711241704
+row, col, comp_r,  Electrocution by equipment contacting wire,  Drown, non-lethal fall, 2.302083127959861
+row, col, comp_r,  Electrocution by equipment contacting wire,  Trench collapse, 2.182415657273212
+row, col, comp_r,  Electrocution by equipment contacting wire,  Electrocution by equipment contacting wire, 4.881453632889576
+row, col, comp_r,  Electrocution by equipment contacting wire,  Fire/explosion, 2.6657582969425753
+row, col, comp_r,  Electrocution by equipment contacting wire,  Unloading-loading equipment/material (except by cr, 2.875627253471958
+row, col, comp_r,  Electrocution by equipment contacting wire,  Electrocution from equipment installation/tool use, 4.023023306705589
+row, col, comp_r,  Electrocution by equipment contacting wire,  Fall from/with platform catwalk (attached to struc, 1.8894278501996693
+row, col, comp_r,  Electrocution by equipment contacting wire,  Asphyxiation/inhalation of toxic vapor, 1.657595213838971
+row, col, comp_r,  Electrocution by equipment contacting wire,  Fall from roof, 2.8502249830517568
+row, col, comp_r,  Electrocution by equipment contacting wire,  Fall from/with ladder, 1.7626897890676592
+row, col, comp_r,  Electrocution by equipment contacting wire,  Collapse of structure, 1.773415285362439
+row, col, comp_r,  Electrocution by equipment contacting wire,  Fall from/with scaffold, 2.276665306064003
+row, col, comp_r,  Electrocution by equipment contacting wire,  Lifting operations, 3.095371712322319
+row, col, comp_r,  Electrocution by equipment contacting wire, Non record, 1.6345900660705037
+row, col, comp_r,  Electrocution by equipment contacting wire,  Elevator (struck by elevator or counter-weights), 2.8099558238710522
+row, col, comp_r,  Electrocution by equipment contacting wire,  Electrocution by touching exposed wire/source, 4.186274134783783
+row, col, comp_r,  Electrocution by equipment contacting wire,  Caught in stationary equipment, 3.785550190921979
+row, col, comp_r,  Electrocution by equipment contacting wire,  Crushed/run-over by highway vehicle, 2.3664475688759463
+row, col, comp_r,  Electrocution by equipment contacting wire,  Struck by falling object/projectile, 2.845596997830058
+row, col, comp_r,  Electrocution by equipment contacting wire,  Fall through opening (other than roof), 2.261622267627927
+row, col, comp_r,  Electrocution by equipment contacting wire,  Heat/hypothermia, 1.8040500337715881
+row, col, comp_r,  Electrocution by equipment contacting wire,  Fall from vehicle (vehicle/construction equipment), 3.37142091964952
+row, col, comp_r,  Electrocution by equipment contacting wire,  Fall from/with structure (other than roof), 2.0605716156066314
+row, col, comp_r,  Electrocution by equipment contacting wire,  Fall from/with bucket (aerial lift/basket), 2.1380448558461396
+row, col, comp_r,  Fire/explosion,  Crushed/run-over of non-operator by operating cons, 3.3319114528880434
+row, col, comp_r,  Fire/explosion,  Wall (earthen) collapse, 2.1387507543864577
+row, col, comp_r,  Fire/explosion,  Crushed/run-over by construction equipment during, 1.9944064334043454
+row, col, comp_r,  Fire/explosion,  Electric shock, other and unknown cause, 2.5784325589824713
+row, col, comp_r,  Fire/explosion,  Crushed/run-over/trapped of operator by operating, 2.6076226461530414
+row, col, comp_r,  Fire/explosion,  Fall, other, 1.7384524798239012
+row, col, comp_r,  Fire/explosion,  Other, 1.714151436545146
+row, col, comp_r,  Fire/explosion,  Drown, non-lethal fall, 2.326581823969887
+row, col, comp_r,  Fire/explosion,  Trench collapse, 1.9520566182662276
+row, col, comp_r,  Fire/explosion,  Electrocution by equipment contacting wire, 2.622622792201155
+row, col, comp_r,  Fire/explosion,  Fire/explosion, 4.984158843403312
+row, col, comp_r,  Fire/explosion,  Unloading-loading equipment/material (except by cr, 2.245104041538118
+row, col, comp_r,  Fire/explosion,  Electrocution from equipment installation/tool use, 2.713111844777836
+row, col, comp_r,  Fire/explosion,  Fall from/with platform catwalk (attached to struc, 2.1159798698545496
+row, col, comp_r,  Fire/explosion,  Asphyxiation/inhalation of toxic vapor, 4.00963156120306
+row, col, comp_r,  Fire/explosion,  Fall from roof, 2.536065855546586
+row, col, comp_r,  Fire/explosion,  Fall from/with ladder, 2.2781427053882597
+row, col, comp_r,  Fire/explosion,  Collapse of structure, 1.8301392344275875
+row, col, comp_r,  Fire/explosion,  Fall from/with scaffold, 2.2070898784823285
+row, col, comp_r,  Fire/explosion,  Lifting operations, 1.590537658705554
+row, col, comp_r,  Fire/explosion, Non record, 2.2105765740177974
+row, col, comp_r,  Fire/explosion,  Elevator (struck by elevator or counter-weights), 1.7424333623204173
+row, col, comp_r,  Fire/explosion,  Electrocution by touching exposed wire/source, 3.647111042787742
+row, col, comp_r,  Fire/explosion,  Caught in stationary equipment, 2.0095122544604695
+row, col, comp_r,  Fire/explosion,  Crushed/run-over by highway vehicle, 2.561775167687135
+row, col, comp_r,  Fire/explosion,  Struck by falling object/projectile, 2.086715599570623
+row, col, comp_r,  Fire/explosion,  Fall through opening (other than roof), 1.8766657640466329
+row, col, comp_r,  Fire/explosion,  Heat/hypothermia, 3.679775455244747
+row, col, comp_r,  Fire/explosion,  Fall from vehicle (vehicle/construction equipment), 2.2616031491437525
+row, col, comp_r,  Fire/explosion,  Fall from/with structure (other than roof), 1.9974893882133946
+row, col, comp_r,  Fire/explosion,  Fall from/with bucket (aerial lift/basket), 2.804246533893897
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Crushed/run-over of non-operator by operating cons, 3.699714401137692
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Wall (earthen) collapse, 2.6990582545065047
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Crushed/run-over by construction equipment during, 2.4436279646797328
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Electric shock, other and unknown cause, 2.5721651953469586
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Crushed/run-over/trapped of operator by operating, 4.10532309494275
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Fall, other, 3.1891455329373364
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Other, 2.74910004475589
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Drown, non-lethal fall, 2.265172200456588
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Trench collapse, 1.853097965436469
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Electrocution by equipment contacting wire, 2.8832869847524063
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Fire/explosion, 2.2937038810491193
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Unloading-loading equipment/material (except by cr, 4.729783450038289
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Electrocution from equipment installation/tool use, 1.8286218480860585
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Fall from/with platform catwalk (attached to struc, 2.409529255416556
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Asphyxiation/inhalation of toxic vapor, 2.4520022811815396
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Fall from roof, 3.438223983399566
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Fall from/with ladder, 2.3301903488959974
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Collapse of structure, 2.0477856023961167
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Fall from/with scaffold, 2.2978672089773284
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Lifting operations, 1.8386483383066232
+row, col, comp_r,  Unloading-loading equipment/material (except by cr, Non record, 3.254086110945821
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Elevator (struck by elevator or counter-weights), 2.807621209838392
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Electrocution by touching exposed wire/source, 3.036668796898147
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Caught in stationary equipment, 2.501050161604054
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Crushed/run-over by highway vehicle, 3.1939597841144574
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Struck by falling object/projectile, 3.0260745727500664
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Fall through opening (other than roof), 3.343369330111173
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Heat/hypothermia, 2.431565814844982
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Fall from vehicle (vehicle/construction equipment), 2.2596629895801668
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Fall from/with structure (other than roof), 2.76200586392382
+row, col, comp_r,  Unloading-loading equipment/material (except by cr,  Fall from/with bucket (aerial lift/basket), 2.5986234655513183
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Crushed/run-over of non-operator by operating cons, 3.4761150225185986
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Wall (earthen) collapse, 1.9775979742300789
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Crushed/run-over by construction equipment during, 3.4324238455635236
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Electric shock, other and unknown cause, 2.944999424369688
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Crushed/run-over/trapped of operator by operating, 3.604442260262761
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Fall, other, 2.198756455951069
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Other, 2.7672945522545414
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Drown, non-lethal fall, 3.262057178673518
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Trench collapse, 1.8931732483166555
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Electrocution by equipment contacting wire, 4.02422013603214
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Fire/explosion, 2.762058048667248
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Unloading-loading equipment/material (except by cr, 1.8242097729489433
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Electrocution from equipment installation/tool use, 4.797198024278909
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Fall from/with platform catwalk (attached to struc, 2.1378746662001267
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Asphyxiation/inhalation of toxic vapor, 2.484858727791245
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Fall from roof, 3.0813797775753797
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Fall from/with ladder, 2.017645593751803
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Collapse of structure, 1.7253093437878766
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Fall from/with scaffold, 2.391361060445835
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Lifting operations, 2.5432302861135394
+row, col, comp_r,  Electrocution from equipment installation/tool use, Non record, 1.9729659773693105
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Elevator (struck by elevator or counter-weights), 2.3817099835031854
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Electrocution by touching exposed wire/source, 3.9655399967135114
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Caught in stationary equipment, 3.489245510257266
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Crushed/run-over by highway vehicle, 2.5960868247061777
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Struck by falling object/projectile, 2.0830747381295502
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Fall through opening (other than roof), 2.1782125248697857
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Heat/hypothermia, 2.178573688237687
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Fall from vehicle (vehicle/construction equipment), 3.793237800024946
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Fall from/with structure (other than roof), 1.9554665210613598
+row, col, comp_r,  Electrocution from equipment installation/tool use,  Fall from/with bucket (aerial lift/basket), 2.9277740976422977
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Crushed/run-over of non-operator by operating cons, 2.4690555115010855
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Wall (earthen) collapse, 3.166600432334398
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Crushed/run-over by construction equipment during, 2.5740114597404107
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Electric shock, other and unknown cause, 1.6515134297726068
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Crushed/run-over/trapped of operator by operating, 2.573667869872646
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Fall, other, 3.5770521419290366
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Other, 1.9977736820087564
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Drown, non-lethal fall, 2.427553850192306
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Trench collapse, 2.2635226206701513
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Electrocution by equipment contacting wire, 1.8800788353201598
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Fire/explosion, 2.1425524105503957
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Unloading-loading equipment/material (except by cr, 2.3827103379978043
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Electrocution from equipment installation/tool use, 2.129494136393837
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Fall from/with platform catwalk (attached to struc, 4.764696796436045
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Asphyxiation/inhalation of toxic vapor, 1.8338532713645426
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Fall from roof, 3.5626333438596403
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Fall from/with ladder, 4.23347509536665
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Collapse of structure, 2.6117297335717535
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Fall from/with scaffold, 4.132681904516417
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Lifting operations, 1.9286081491864908
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc, Non record, 1.8292670659009422
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Elevator (struck by elevator or counter-weights), 3.6215849700809715
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Electrocution by touching exposed wire/source, 2.032853000956125
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Caught in stationary equipment, 2.260410149452167
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Crushed/run-over by highway vehicle, 2.230724052517022
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Struck by falling object/projectile, 2.2753881188639395
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Fall through opening (other than roof), 3.8182775353516485
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Heat/hypothermia, 2.7060082755611714
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Fall from vehicle (vehicle/construction equipment), 3.5468218927362125
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Fall from/with structure (other than roof), 4.050416314835459
+row, col, comp_r,  Fall from/with platform catwalk (attached to struc,  Fall from/with bucket (aerial lift/basket), 4.117055228652664
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Crushed/run-over of non-operator by operating cons, 3.622705377220395
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Wall (earthen) collapse, 2.466354740572293
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Crushed/run-over by construction equipment during, 2.131884746495369
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Electric shock, other and unknown cause, 3.4228611246822336
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Crushed/run-over/trapped of operator by operating, 2.6456235779576227
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Fall, other, 2.220795266904246
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Other, 2.4455356056218296
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Drown, non-lethal fall, 3.493091784206567
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Trench collapse, 2.515202398563256
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Electrocution by equipment contacting wire, 1.6766890489048731
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Fire/explosion, 4.035712377607515
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Unloading-loading equipment/material (except by cr, 2.4724206362297894
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Electrocution from equipment installation/tool use, 2.5181931185024546
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Fall from/with platform catwalk (attached to struc, 1.8753188904084916
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Asphyxiation/inhalation of toxic vapor, 4.876037437617715
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Fall from roof, 3.1607704199534723
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Fall from/with ladder, 2.2943431807058197
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Collapse of structure, 2.9937265095090018
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Fall from/with scaffold, 1.9013000638699502
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Lifting operations, 1.3652736264537988
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor, Non record, 3.24823055176169
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Elevator (struck by elevator or counter-weights), 2.03994587862039
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Electrocution by touching exposed wire/source, 3.932533986690026
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Caught in stationary equipment, 3.1229700329805667
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Crushed/run-over by highway vehicle, 2.506410658572029
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Struck by falling object/projectile, 2.427497165622759
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Fall through opening (other than roof), 2.3915274181520365
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Heat/hypothermia, 3.7946404154154982
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Fall from vehicle (vehicle/construction equipment), 2.586871583570927
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Fall from/with structure (other than roof), 2.800909707734702
+row, col, comp_r,  Asphyxiation/inhalation of toxic vapor,  Fall from/with bucket (aerial lift/basket), 2.8146147046661074
+row, col, comp_r,  Fall from roof,  Crushed/run-over of non-operator by operating cons, 2.5865701806292667
+row, col, comp_r,  Fall from roof,  Wall (earthen) collapse, 3.6410181018970027
+row, col, comp_r,  Fall from roof,  Crushed/run-over by construction equipment during, 3.49292821263223
+row, col, comp_r,  Fall from roof,  Electric shock, other and unknown cause, 2.603104943377648
+row, col, comp_r,  Fall from roof,  Crushed/run-over/trapped of operator by operating, 2.7282547274858926
+row, col, comp_r,  Fall from roof,  Fall, other, 4.1184097236034685
+row, col, comp_r,  Fall from roof,  Other, 2.1366273142690475
+row, col, comp_r,  Fall from roof,  Drown, non-lethal fall, 4.2772198330593945
+row, col, comp_r,  Fall from roof,  Trench collapse, 3.095194097709677
+row, col, comp_r,  Fall from roof,  Electrocution by equipment contacting wire, 2.8582368151228
+row, col, comp_r,  Fall from roof,  Fire/explosion, 2.593177671781478
+row, col, comp_r,  Fall from roof,  Unloading-loading equipment/material (except by cr, 3.4383126880067865
+row, col, comp_r,  Fall from roof,  Electrocution from equipment installation/tool use, 3.0942133581085747
+row, col, comp_r,  Fall from roof,  Fall from/with platform catwalk (attached to struc, 3.5689181490617865
+row, col, comp_r,  Fall from roof,  Asphyxiation/inhalation of toxic vapor, 3.1447864797822316
+row, col, comp_r,  Fall from roof,  Fall from roof, 4.7554490696921885
+row, col, comp_r,  Fall from roof,  Fall from/with ladder, 4.154255287057949
+row, col, comp_r,  Fall from roof,  Collapse of structure, 3.3378289961219116
+row, col, comp_r,  Fall from roof,  Fall from/with scaffold, 4.02754311033637
+row, col, comp_r,  Fall from roof,  Lifting operations, 2.227631133909369
+row, col, comp_r,  Fall from roof, Non record, 3.3020829705501322
+row, col, comp_r,  Fall from roof,  Elevator (struck by elevator or counter-weights), 3.786874974422216
+row, col, comp_r,  Fall from roof,  Electrocution by touching exposed wire/source, 3.29370917097544
+row, col, comp_r,  Fall from roof,  Caught in stationary equipment, 2.7157065514775387
+row, col, comp_r,  Fall from roof,  Crushed/run-over by highway vehicle, 3.3215573843821904
+row, col, comp_r,  Fall from roof,  Struck by falling object/projectile, 3.568521273166753
+row, col, comp_r,  Fall from roof,  Fall through opening (other than roof), 3.761646247357727
+row, col, comp_r,  Fall from roof,  Heat/hypothermia, 2.784913596427221
+row, col, comp_r,  Fall from roof,  Fall from vehicle (vehicle/construction equipment), 4.250283986466001
+row, col, comp_r,  Fall from roof,  Fall from/with structure (other than roof), 3.76613506271436
+row, col, comp_r,  Fall from roof,  Fall from/with bucket (aerial lift/basket), 3.9301945969871857
+row, col, comp_r,  Fall from/with ladder,  Crushed/run-over of non-operator by operating cons, 1.7760456203432655
+row, col, comp_r,  Fall from/with ladder,  Wall (earthen) collapse, 2.4706743839561605
+row, col, comp_r,  Fall from/with ladder,  Crushed/run-over by construction equipment during, 1.9824177181735672
+row, col, comp_r,  Fall from/with ladder,  Electric shock, other and unknown cause, 1.7554175169555908
+row, col, comp_r,  Fall from/with ladder,  Crushed/run-over/trapped of operator by operating, 2.323409802440235
+row, col, comp_r,  Fall from/with ladder,  Fall, other, 3.9223805556772673
+row, col, comp_r,  Fall from/with ladder,  Other, 1.8165146001052666
+row, col, comp_r,  Fall from/with ladder,  Drown, non-lethal fall, 2.4811514426213765
+row, col, comp_r,  Fall from/with ladder,  Trench collapse, 1.8732626543763522
+row, col, comp_r,  Fall from/with ladder,  Electrocution by equipment contacting wire, 1.7553288302679595
+row, col, comp_r,  Fall from/with ladder,  Fire/explosion, 2.308438702286482
+row, col, comp_r,  Fall from/with ladder,  Unloading-loading equipment/material (except by cr, 2.3033309118941308
+row, col, comp_r,  Fall from/with ladder,  Electrocution from equipment installation/tool use, 2.0096462356993543
+row, col, comp_r,  Fall from/with ladder,  Fall from/with platform catwalk (attached to struc, 4.2342355710482975
+row, col, comp_r,  Fall from/with ladder,  Asphyxiation/inhalation of toxic vapor, 2.240753851403327
+row, col, comp_r,  Fall from/with ladder,  Fall from roof, 4.15025780591515
+row, col, comp_r,  Fall from/with ladder,  Fall from/with ladder, 4.881106421055046
+row, col, comp_r,  Fall from/with ladder,  Collapse of structure, 2.0114407150624842
+row, col, comp_r,  Fall from/with ladder,  Fall from/with scaffold, 4.496268207126398
+row, col, comp_r,  Fall from/with ladder,  Lifting operations, 1.7489221778142592
+row, col, comp_r,  Fall from/with ladder, Non record, 1.7336891847137719
+row, col, comp_r,  Fall from/with ladder,  Elevator (struck by elevator or counter-weights), 2.9967038515216746
+row, col, comp_r,  Fall from/with ladder,  Electrocution by touching exposed wire/source, 1.9285648843495564
+row, col, comp_r,  Fall from/with ladder,  Caught in stationary equipment, 2.030172518589717
+row, col, comp_r,  Fall from/with ladder,  Crushed/run-over by highway vehicle, 1.94274105318094
+row, col, comp_r,  Fall from/with ladder,  Struck by falling object/projectile, 3.2364401629136066
+row, col, comp_r,  Fall from/with ladder,  Fall through opening (other than roof), 3.878994246322878
+row, col, comp_r,  Fall from/with ladder,  Heat/hypothermia, 2.65314357566542
+row, col, comp_r,  Fall from/with ladder,  Fall from vehicle (vehicle/construction equipment), 3.0491336437955
+row, col, comp_r,  Fall from/with ladder,  Fall from/with structure (other than roof), 4.136694720969161
+row, col, comp_r,  Fall from/with ladder,  Fall from/with bucket (aerial lift/basket), 4.159607108656312
+row, col, comp_r,  Collapse of structure,  Crushed/run-over of non-operator by operating cons, 1.9590265097531219
+row, col, comp_r,  Collapse of structure,  Wall (earthen) collapse, 4.536523888362042
+row, col, comp_r,  Collapse of structure,  Crushed/run-over by construction equipment during, 2.1638223696318653
+row, col, comp_r,  Collapse of structure,  Electric shock, other and unknown cause, 1.856335327519758
+row, col, comp_r,  Collapse of structure,  Crushed/run-over/trapped of operator by operating, 3.0064024471012543
+row, col, comp_r,  Collapse of structure,  Fall, other, 1.8753438418821538
+row, col, comp_r,  Collapse of structure,  Other, 1.4946789565092973
+row, col, comp_r,  Collapse of structure,  Drown, non-lethal fall, 1.7506138006817857
+row, col, comp_r,  Collapse of structure,  Trench collapse, 4.753760667172156
+row, col, comp_r,  Collapse of structure,  Electrocution by equipment contacting wire, 1.7768820113342607
+row, col, comp_r,  Collapse of structure,  Fire/explosion, 1.8502180161028103
+row, col, comp_r,  Collapse of structure,  Unloading-loading equipment/material (except by cr, 2.049145056517756
+row, col, comp_r,  Collapse of structure,  Electrocution from equipment installation/tool use, 1.7298388520479082
+row, col, comp_r,  Collapse of structure,  Fall from/with platform catwalk (attached to struc, 2.627747811118076
+row, col, comp_r,  Collapse of structure,  Asphyxiation/inhalation of toxic vapor, 2.982072139926613
+row, col, comp_r,  Collapse of structure,  Fall from roof, 3.344512186463587
+row, col, comp_r,  Collapse of structure,  Fall from/with ladder, 2.025955932941608
+row, col, comp_r,  Collapse of structure,  Collapse of structure, 4.984687412230404
+row, col, comp_r,  Collapse of structure,  Fall from/with scaffold, 2.316795134481975
+row, col, comp_r,  Collapse of structure,  Lifting operations, 2.6941241464179297
+row, col, comp_r,  Collapse of structure, Non record, 1.9908211022988658
+row, col, comp_r,  Collapse of structure,  Elevator (struck by elevator or counter-weights), 2.68660725505188
+row, col, comp_r,  Collapse of structure,  Electrocution by touching exposed wire/source, 2.1215870806861648
+row, col, comp_r,  Collapse of structure,  Caught in stationary equipment, 1.8822527047326738
+row, col, comp_r,  Collapse of structure,  Crushed/run-over by highway vehicle, 1.7504138462532661
+row, col, comp_r,  Collapse of structure,  Struck by falling object/projectile, 2.51331673719954
+row, col, comp_r,  Collapse of structure,  Fall through opening (other than roof), 2.6421328841357377
+row, col, comp_r,  Collapse of structure,  Heat/hypothermia, 2.04245137798467
+row, col, comp_r,  Collapse of structure,  Fall from vehicle (vehicle/construction equipment), 1.8866358625424922
+row, col, comp_r,  Collapse of structure,  Fall from/with structure (other than roof), 3.249450581292538
+row, col, comp_r,  Collapse of structure,  Fall from/with bucket (aerial lift/basket), 1.77232544991176
+row, col, comp_r,  Fall from/with scaffold,  Crushed/run-over of non-operator by operating cons, 1.7976389236331305
+row, col, comp_r,  Fall from/with scaffold,  Wall (earthen) collapse, 3.1049846141303106
+row, col, comp_r,  Fall from/with scaffold,  Crushed/run-over by construction equipment during, 3.3056837229843485
+row, col, comp_r,  Fall from/with scaffold,  Electric shock, other and unknown cause, 1.986212051544116
+row, col, comp_r,  Fall from/with scaffold,  Crushed/run-over/trapped of operator by operating, 2.5565179136178724
+row, col, comp_r,  Fall from/with scaffold,  Fall, other, 4.012190781047636
+row, col, comp_r,  Fall from/with scaffold,  Other, 1.9106716746250143
+row, col, comp_r,  Fall from/with scaffold,  Drown, non-lethal fall, 2.7487705080962566
+row, col, comp_r,  Fall from/with scaffold,  Trench collapse, 2.0150947525513354
+row, col, comp_r,  Fall from/with scaffold,  Electrocution by equipment contacting wire, 2.2709732643530756
+row, col, comp_r,  Fall from/with scaffold,  Fire/explosion, 2.2387627702215154
+row, col, comp_r,  Fall from/with scaffold,  Unloading-loading equipment/material (except by cr, 2.280533523036379
+row, col, comp_r,  Fall from/with scaffold,  Electrocution from equipment installation/tool use, 2.3881412630020753
+row, col, comp_r,  Fall from/with scaffold,  Fall from/with platform catwalk (attached to struc, 4.133366872863552
+row, col, comp_r,  Fall from/with scaffold,  Asphyxiation/inhalation of toxic vapor, 1.8632831953642668
+row, col, comp_r,  Fall from/with scaffold,  Fall from roof, 4.02268183758836
+row, col, comp_r,  Fall from/with scaffold,  Fall from/with ladder, 4.497624576093785
+row, col, comp_r,  Fall from/with scaffold,  Collapse of structure, 2.3032507545032073
+row, col, comp_r,  Fall from/with scaffold,  Fall from/with scaffold, 4.846723337278368
+row, col, comp_r,  Fall from/with scaffold,  Lifting operations, 2.27395546444132
+row, col, comp_r,  Fall from/with scaffold, Non record, 1.5131557927835875
+row, col, comp_r,  Fall from/with scaffold,  Elevator (struck by elevator or counter-weights), 2.6771369039579973
+row, col, comp_r,  Fall from/with scaffold,  Electrocution by touching exposed wire/source, 2.22062249164667
+row, col, comp_r,  Fall from/with scaffold,  Caught in stationary equipment, 2.8449094752704056
+row, col, comp_r,  Fall from/with scaffold,  Crushed/run-over by highway vehicle, 1.8881468968695028
+row, col, comp_r,  Fall from/with scaffold,  Struck by falling object/projectile, 2.7856530739455363
+row, col, comp_r,  Fall from/with scaffold,  Fall through opening (other than roof), 3.9370271079117574
+row, col, comp_r,  Fall from/with scaffold,  Heat/hypothermia, 2.2942152407163126
+row, col, comp_r,  Fall from/with scaffold,  Fall from vehicle (vehicle/construction equipment), 3.5792832445381584
+row, col, comp_r,  Fall from/with scaffold,  Fall from/with structure (other than roof), 4.09723594011772
+row, col, comp_r,  Fall from/with scaffold,  Fall from/with bucket (aerial lift/basket), 4.083747933731289
+row, col, comp_r,  Lifting operations,  Crushed/run-over of non-operator by operating cons, 2.3729345644721316
+row, col, comp_r,  Lifting operations,  Wall (earthen) collapse, 1.9130431797633651
+row, col, comp_r,  Lifting operations,  Crushed/run-over by construction equipment during, 3.369847735074508
+row, col, comp_r,  Lifting operations,  Electric shock, other and unknown cause, 1.4048264011072278
+row, col, comp_r,  Lifting operations,  Crushed/run-over/trapped of operator by operating, 3.5631937921448853
+row, col, comp_r,  Lifting operations,  Fall, other, 1.5431545647172833
+row, col, comp_r,  Lifting operations,  Other, 1.638177014372507
+row, col, comp_r,  Lifting operations,  Drown, non-lethal fall, 1.8447372388120655
+row, col, comp_r,  Lifting operations,  Trench collapse, 2.100249366080674
+row, col, comp_r,  Lifting operations,  Electrocution by equipment contacting wire, 3.0681436216925877
+row, col, comp_r,  Lifting operations,  Fire/explosion, 1.5934857506364293
+row, col, comp_r,  Lifting operations,  Unloading-loading equipment/material (except by cr, 1.8161672795676143
+row, col, comp_r,  Lifting operations,  Electrocution from equipment installation/tool use, 2.5191155074864415
+row, col, comp_r,  Lifting operations,  Fall from/with platform catwalk (attached to struc, 1.9111527459124318
+row, col, comp_r,  Lifting operations,  Asphyxiation/inhalation of toxic vapor, 1.338184825603559
+row, col, comp_r,  Lifting operations,  Fall from roof, 2.2039112876992015
+row, col, comp_r,  Lifting operations,  Fall from/with ladder, 1.7395303418164714
+row, col, comp_r,  Lifting operations,  Collapse of structure, 2.661686665113575
+row, col, comp_r,  Lifting operations,  Fall from/with scaffold, 2.2491888372618716
+row, col, comp_r,  Lifting operations,  Lifting operations, 4.844001155840775
+row, col, comp_r,  Lifting operations, Non record, 1.9251731102279641
+row, col, comp_r,  Lifting operations,  Elevator (struck by elevator or counter-weights), 2.6941435272629635
+row, col, comp_r,  Lifting operations,  Electrocution by touching exposed wire/source, 2.464385104042808
+row, col, comp_r,  Lifting operations,  Caught in stationary equipment, 3.613070706172061
+row, col, comp_r,  Lifting operations,  Crushed/run-over by highway vehicle, 1.53684758054077
+row, col, comp_r,  Lifting operations,  Struck by falling object/projectile, 2.2294698547483334
+row, col, comp_r,  Lifting operations,  Fall through opening (other than roof), 2.061224595542252
+row, col, comp_r,  Lifting operations,  Heat/hypothermia, 1.5272149790019478
+row, col, comp_r,  Lifting operations,  Fall from vehicle (vehicle/construction equipment), 2.8167947439687273
+row, col, comp_r,  Lifting operations,  Fall from/with structure (other than roof), 1.9617116977043838
+row, col, comp_r,  Lifting operations,  Fall from/with bucket (aerial lift/basket), 2.5255007779198655
+row, col, comp_r, Non record,  Crushed/run-over of non-operator by operating cons, 3.5666646530653345
+row, col, comp_r, Non record,  Wall (earthen) collapse, 1.6235116828453675
+row, col, comp_r, Non record,  Crushed/run-over by construction equipment during, 2.087750005103619
+row, col, comp_r, Non record,  Electric shock, other and unknown cause, 2.3511191600267374
+row, col, comp_r, Non record,  Crushed/run-over/trapped of operator by operating, 2.1353794232231413
+row, col, comp_r, Non record,  Fall, other, 2.4330364431590086
+row, col, comp_r, Non record,  Other, 2.173436492804906
+row, col, comp_r, Non record,  Drown, non-lethal fall, 2.038270897851755
+row, col, comp_r, Non record,  Trench collapse, 1.670470531729667
+row, col, comp_r, Non record,  Electrocution by equipment contacting wire, 1.6382401197237149
+row, col, comp_r, Non record,  Fire/explosion, 2.252627290095346
+row, col, comp_r, Non record,  Unloading-loading equipment/material (except by cr, 3.2615729164240927
+row, col, comp_r, Non record,  Electrocution from equipment installation/tool use, 1.9816902274566508
+row, col, comp_r, Non record,  Fall from/with platform catwalk (attached to struc, 1.8541041590114038
+row, col, comp_r, Non record,  Asphyxiation/inhalation of toxic vapor, 3.238090027937285
+row, col, comp_r, Non record,  Fall from roof, 3.3076171807193733
+row, col, comp_r, Non record,  Fall from/with ladder, 1.7472397687450254
+row, col, comp_r, Non record,  Collapse of structure, 2.0000479324416203
+row, col, comp_r, Non record,  Fall from/with scaffold, 1.5195722156468627
+row, col, comp_r, Non record,  Lifting operations, 1.9520125796209515
+row, col, comp_r, Non record, Non record, 4.834093570518944
+row, col, comp_r, Non record,  Elevator (struck by elevator or counter-weights), 1.7004268235270612
+row, col, comp_r, Non record,  Electrocution by touching exposed wire/source, 2.4383762035859258
+row, col, comp_r, Non record,  Caught in stationary equipment, 2.038244587630726
+row, col, comp_r, Non record,  Crushed/run-over by highway vehicle, 1.8099385043491876
+row, col, comp_r, Non record,  Struck by falling object/projectile, 2.0878534170744096
+row, col, comp_r, Non record,  Fall through opening (other than roof), 3.0604652930554206
+row, col, comp_r, Non record,  Heat/hypothermia, 2.5643668184521946
+row, col, comp_r, Non record,  Fall from vehicle (vehicle/construction equipment), 2.012320520150086
+row, col, comp_r, Non record,  Fall from/with structure (other than roof), 2.0634976433084153
+row, col, comp_r, Non record,  Fall from/with bucket (aerial lift/basket), 1.7639014822017924
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Crushed/run-over of non-operator by operating cons, 3.096467330387197
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Wall (earthen) collapse, 3.8826030112142975
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Crushed/run-over by construction equipment during, 2.326319409247387
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Electric shock, other and unknown cause, 1.9859640304574184
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Crushed/run-over/trapped of operator by operating, 3.4627539976866712
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Fall, other, 2.192491059114971
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Other, 1.8398625453128918
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Drown, non-lethal fall, 1.8406251501340534
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Trench collapse, 1.9145503251476461
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Electrocution by equipment contacting wire, 2.8007699127340833
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Fire/explosion, 1.7542635904475303
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Unloading-loading equipment/material (except by cr, 2.791374345779195
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Electrocution from equipment installation/tool use, 2.3753744545259075
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Fall from/with platform catwalk (attached to struc, 3.623543310440387
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Asphyxiation/inhalation of toxic vapor, 2.0003507259356996
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Fall from roof, 3.7856696143228183
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Fall from/with ladder, 3.005517473536611
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Collapse of structure, 2.6721310573480097
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Fall from/with scaffold, 2.674569878751167
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Lifting operations, 2.7158295082205854
+row, col, comp_r,  Elevator (struck by elevator or counter-weights), Non record, 1.6872219559476878
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Elevator (struck by elevator or counter-weights), 4.877113990722487
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Electrocution by touching exposed wire/source, 3.24895586382586
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Caught in stationary equipment, 3.3642079820608695
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Crushed/run-over by highway vehicle, 2.457375186501268
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Struck by falling object/projectile, 4.275198973042847
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Fall through opening (other than roof), 3.9883687444007836
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Heat/hypothermia, 3.0086199485419014
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Fall from vehicle (vehicle/construction equipment), 2.8705925680839854
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Fall from/with structure (other than roof), 3.6153911975005
+row, col, comp_r,  Elevator (struck by elevator or counter-weights),  Fall from/with bucket (aerial lift/basket), 3.4746331611752885
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Crushed/run-over of non-operator by operating cons, 3.786862874652018
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Wall (earthen) collapse, 3.31059209206117
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Crushed/run-over by construction equipment during, 2.1927455013845387
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Electric shock, other and unknown cause, 3.1021903403930007
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Crushed/run-over/trapped of operator by operating, 3.876930477158508
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Fall, other, 1.9964522328369059
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Other, 2.5957387081208942
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Drown, non-lethal fall, 2.552301021506496
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Trench collapse, 2.2541844299199623
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Electrocution by equipment contacting wire, 4.189542129856884
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Fire/explosion, 3.6789122871807365
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Unloading-loading equipment/material (except by cr, 3.0393232758336355
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Electrocution from equipment installation/tool use, 3.967694945321302
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Fall from/with platform catwalk (attached to struc, 2.0530001884213522
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Asphyxiation/inhalation of toxic vapor, 3.92830923455824
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Fall from roof, 3.2941418895289107
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Fall from/with ladder, 1.9495816214280235
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Collapse of structure, 2.1239175708693923
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Fall from/with scaffold, 2.236707463675401
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Lifting operations, 2.5049464029006727
+row, col, comp_r,  Electrocution by touching exposed wire/source, Non record, 2.433493947379813
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Elevator (struck by elevator or counter-weights), 3.268323485936349
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Electrocution by touching exposed wire/source, 4.6872383629484435
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Caught in stationary equipment, 2.868910213553963
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Crushed/run-over by highway vehicle, 2.7388391243292105
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Struck by falling object/projectile, 3.702257815100798
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Fall through opening (other than roof), 3.025990926161845
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Heat/hypothermia, 3.7395741226985293
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Fall from vehicle (vehicle/construction equipment), 2.287028725089847
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Fall from/with structure (other than roof), 2.225446308990045
+row, col, comp_r,  Electrocution by touching exposed wire/source,  Fall from/with bucket (aerial lift/basket), 1.7689326838770176
+row, col, comp_r,  Caught in stationary equipment,  Crushed/run-over of non-operator by operating cons, 2.2097744716387773
+row, col, comp_r,  Caught in stationary equipment,  Wall (earthen) collapse, 2.411282557974757
+row, col, comp_r,  Caught in stationary equipment,  Crushed/run-over by construction equipment during, 3.240548051184062
+row, col, comp_r,  Caught in stationary equipment,  Electric shock, other and unknown cause, 2.653929763677673
+row, col, comp_r,  Caught in stationary equipment,  Crushed/run-over/trapped of operator by operating, 3.4126530173603378
+row, col, comp_r,  Caught in stationary equipment,  Fall, other, 2.3713692075651145
+row, col, comp_r,  Caught in stationary equipment,  Other, 3.532937633520117
+row, col, comp_r,  Caught in stationary equipment,  Drown, non-lethal fall, 2.6078391997604684
+row, col, comp_r,  Caught in stationary equipment,  Trench collapse, 1.943078789249953
+row, col, comp_r,  Caught in stationary equipment,  Electrocution by equipment contacting wire, 3.77781762327509
+row, col, comp_r,  Caught in stationary equipment,  Fire/explosion, 2.025099990820565
+row, col, comp_r,  Caught in stationary equipment,  Unloading-loading equipment/material (except by cr, 2.4767506695733315
+row, col, comp_r,  Caught in stationary equipment,  Electrocution from equipment installation/tool use, 3.478512600165676
+row, col, comp_r,  Caught in stationary equipment,  Fall from/with platform catwalk (attached to struc, 2.2572179112148136
+row, col, comp_r,  Caught in stationary equipment,  Asphyxiation/inhalation of toxic vapor, 3.0668236204990746
+row, col, comp_r,  Caught in stationary equipment,  Fall from roof, 2.68949565628597
+row, col, comp_r,  Caught in stationary equipment,  Fall from/with ladder, 2.034034075933361
+row, col, comp_r,  Caught in stationary equipment,  Collapse of structure, 1.8752658480640307
+row, col, comp_r,  Caught in stationary equipment,  Fall from/with scaffold, 2.8322900815179883
+row, col, comp_r,  Caught in stationary equipment,  Lifting operations, 3.6203154369907242
+row, col, comp_r,  Caught in stationary equipment, Non record, 2.0175848994181225
+row, col, comp_r,  Caught in stationary equipment,  Elevator (struck by elevator or counter-weights), 3.353736814643314
+row, col, comp_r,  Caught in stationary equipment,  Electrocution by touching exposed wire/source, 2.8387734343342954
+row, col, comp_r,  Caught in stationary equipment,  Caught in stationary equipment, 4.80532608610962
+row, col, comp_r,  Caught in stationary equipment,  Crushed/run-over by highway vehicle, 2.4468073336905496
+row, col, comp_r,  Caught in stationary equipment,  Struck by falling object/projectile, 2.766147106813996
+row, col, comp_r,  Caught in stationary equipment,  Fall through opening (other than roof), 2.2155508049366395
+row, col, comp_r,  Caught in stationary equipment,  Heat/hypothermia, 2.4438647364475568
+row, col, comp_r,  Caught in stationary equipment,  Fall from vehicle (vehicle/construction equipment), 3.6629537601109674
+row, col, comp_r,  Caught in stationary equipment,  Fall from/with structure (other than roof), 1.9845058025392253
+row, col, comp_r,  Caught in stationary equipment,  Fall from/with bucket (aerial lift/basket), 2.5460811427126693
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Crushed/run-over of non-operator by operating cons, 3.6811469089677304
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Wall (earthen) collapse, 2.0588262562355077
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Crushed/run-over by construction equipment during, 2.855390502782854
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Electric shock, other and unknown cause, 2.7919636851086715
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Crushed/run-over/trapped of operator by operating, 2.903743180907033
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Fall, other, 2.3095849921582996
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Other, 2.2389194596079394
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Drown, non-lethal fall, 3.2017233926760644
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Trench collapse, 1.8278406000226235
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Electrocution by equipment contacting wire, 2.36773775482225
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Fire/explosion, 2.616684425220912
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Unloading-loading equipment/material (except by cr, 3.1904248935333985
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Electrocution from equipment installation/tool use, 2.599239883346767
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Fall from/with platform catwalk (attached to struc, 2.248324269829963
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Asphyxiation/inhalation of toxic vapor, 2.476129594592237
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Fall from roof, 3.315355097340996
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Fall from/with ladder, 1.9566752431409082
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Collapse of structure, 1.748124592521488
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Fall from/with scaffold, 1.895236330012561
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Lifting operations, 1.5523271058073658
+row, col, comp_r,  Crushed/run-over by highway vehicle, Non record, 1.8072865211228417
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Elevator (struck by elevator or counter-weights), 2.46515428681382
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Electrocution by touching exposed wire/source, 2.733300031449206
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Caught in stationary equipment, 2.4626289838222597
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Crushed/run-over by highway vehicle, 4.88757228985687
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Struck by falling object/projectile, 3.4702181887983246
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Fall through opening (other than roof), 2.231110745649787
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Heat/hypothermia, 3.062362308959261
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Fall from vehicle (vehicle/construction equipment), 3.916794016403569
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Fall from/with structure (other than roof), 2.326747849824729
+row, col, comp_r,  Crushed/run-over by highway vehicle,  Fall from/with bucket (aerial lift/basket), 2.571694761834312
+row, col, comp_r,  Struck by falling object/projectile,  Crushed/run-over of non-operator by operating cons, 2.477637634299648
+row, col, comp_r,  Struck by falling object/projectile,  Wall (earthen) collapse, 3.254705695413919
+row, col, comp_r,  Struck by falling object/projectile,  Crushed/run-over by construction equipment during, 2.0580364382210194
+row, col, comp_r,  Struck by falling object/projectile,  Electric shock, other and unknown cause, 2.3430318086281305
+row, col, comp_r,  Struck by falling object/projectile,  Crushed/run-over/trapped of operator by operating, 3.2981100432845603
+row, col, comp_r,  Struck by falling object/projectile,  Fall, other, 3.4350128916785194
+row, col, comp_r,  Struck by falling object/projectile,  Other, 2.298206007827029
+row, col, comp_r,  Struck by falling object/projectile,  Drown, non-lethal fall, 3.947281047504586
+row, col, comp_r,  Struck by falling object/projectile,  Trench collapse, 2.497902079678418
+row, col, comp_r,  Struck by falling object/projectile,  Electrocution by equipment contacting wire, 2.84167383867202
+row, col, comp_r,  Struck by falling object/projectile,  Fire/explosion, 2.125754045090346
+row, col, comp_r,  Struck by falling object/projectile,  Unloading-loading equipment/material (except by cr, 3.017155827996948
+row, col, comp_r,  Struck by falling object/projectile,  Electrocution from equipment installation/tool use, 2.083223675707565
+row, col, comp_r,  Struck by falling object/projectile,  Fall from/with platform catwalk (attached to struc, 2.2848202966725073
+row, col, comp_r,  Struck by falling object/projectile,  Asphyxiation/inhalation of toxic vapor, 2.3955217012249195
+row, col, comp_r,  Struck by falling object/projectile,  Fall from roof, 3.5699482810458276
+row, col, comp_r,  Struck by falling object/projectile,  Fall from/with ladder, 3.25047686354781
+row, col, comp_r,  Struck by falling object/projectile,  Collapse of structure, 2.506203556510783
+row, col, comp_r,  Struck by falling object/projectile,  Fall from/with scaffold, 2.7891062735645322
+row, col, comp_r,  Struck by falling object/projectile,  Lifting operations, 2.2517222389091476
+row, col, comp_r,  Struck by falling object/projectile, Non record, 2.075631921289542
+row, col, comp_r,  Struck by falling object/projectile,  Elevator (struck by elevator or counter-weights), 4.275167935400772
+row, col, comp_r,  Struck by falling object/projectile,  Electrocution by touching exposed wire/source, 3.6967238180258133
+row, col, comp_r,  Struck by falling object/projectile,  Caught in stationary equipment, 2.7830975479930373
+row, col, comp_r,  Struck by falling object/projectile,  Crushed/run-over by highway vehicle, 3.4633013313709653
+row, col, comp_r,  Struck by falling object/projectile,  Struck by falling object/projectile, 4.754013391230313
+row, col, comp_r,  Struck by falling object/projectile,  Fall through opening (other than roof), 3.7699765686777806
+row, col, comp_r,  Struck by falling object/projectile,  Heat/hypothermia, 3.5431610080483575
+row, col, comp_r,  Struck by falling object/projectile,  Fall from vehicle (vehicle/construction equipment), 2.9769668052580576
+row, col, comp_r,  Struck by falling object/projectile,  Fall from/with structure (other than roof), 2.6392796844478577
+row, col, comp_r,  Struck by falling object/projectile,  Fall from/with bucket (aerial lift/basket), 2.717426340169639
+row, col, comp_r,  Fall through opening (other than roof),  Crushed/run-over of non-operator by operating cons, 3.1217722491885267
+row, col, comp_r,  Fall through opening (other than roof),  Wall (earthen) collapse, 3.6401052672609753
+row, col, comp_r,  Fall through opening (other than roof),  Crushed/run-over by construction equipment during, 2.706060265331382
+row, col, comp_r,  Fall through opening (other than roof),  Electric shock, other and unknown cause, 2.622828309801463
+row, col, comp_r,  Fall through opening (other than roof),  Crushed/run-over/trapped of operator by operating, 2.8009086927600313
+row, col, comp_r,  Fall through opening (other than roof),  Fall, other, 3.9791209904032145
+row, col, comp_r,  Fall through opening (other than roof),  Other, 3.6655452286750627
+row, col, comp_r,  Fall through opening (other than roof),  Drown, non-lethal fall, 3.713127092740293
+row, col, comp_r,  Fall through opening (other than roof),  Trench collapse, 2.3392496802817915
+row, col, comp_r,  Fall through opening (other than roof),  Electrocution by equipment contacting wire, 2.26922908402499
+row, col, comp_r,  Fall through opening (other than roof),  Fire/explosion, 1.8982773043283165
+row, col, comp_r,  Fall through opening (other than roof),  Unloading-loading equipment/material (except by cr, 3.34587464767056
+row, col, comp_r,  Fall through opening (other than roof),  Electrocution from equipment installation/tool use, 2.187646399198124
+row, col, comp_r,  Fall through opening (other than roof),  Fall from/with platform catwalk (attached to struc, 3.826053910874295
+row, col, comp_r,  Fall through opening (other than roof),  Asphyxiation/inhalation of toxic vapor, 2.366795557338943
+row, col, comp_r,  Fall through opening (other than roof),  Fall from roof, 3.7634373406643604
+row, col, comp_r,  Fall through opening (other than roof),  Fall from/with ladder, 3.8915938708592135
+row, col, comp_r,  Fall through opening (other than roof),  Collapse of structure, 2.645668043295684
+row, col, comp_r,  Fall through opening (other than roof),  Fall from/with scaffold, 3.9440522915263925
+row, col, comp_r,  Fall through opening (other than roof),  Lifting operations, 2.086984872692784
+row, col, comp_r,  Fall through opening (other than roof), Non record, 3.054729595002974
+row, col, comp_r,  Fall through opening (other than roof),  Elevator (struck by elevator or counter-weights), 3.9937735777390966
+row, col, comp_r,  Fall through opening (other than roof),  Electrocution by touching exposed wire/source, 3.0248437452244064
+row, col, comp_r,  Fall through opening (other than roof),  Caught in stationary equipment, 2.237031108491111
+row, col, comp_r,  Fall through opening (other than roof),  Crushed/run-over by highway vehicle, 2.2352812835329985
+row, col, comp_r,  Fall through opening (other than roof),  Struck by falling object/projectile, 3.7739901005747294
+row, col, comp_r,  Fall through opening (other than roof),  Fall through opening (other than roof), 4.709441632923571
+row, col, comp_r,  Fall through opening (other than roof),  Heat/hypothermia, 2.100142333159238
+row, col, comp_r,  Fall through opening (other than roof),  Fall from vehicle (vehicle/construction equipment), 3.73171796897511
+row, col, comp_r,  Fall through opening (other than roof),  Fall from/with structure (other than roof), 4.1265943374339225
+row, col, comp_r,  Fall through opening (other than roof),  Fall from/with bucket (aerial lift/basket), 3.901098013851689
+row, col, comp_r,  Heat/hypothermia,  Crushed/run-over of non-operator by operating cons, 4.08605660847499
+row, col, comp_r,  Heat/hypothermia,  Wall (earthen) collapse, 2.3973908709213596
+row, col, comp_r,  Heat/hypothermia,  Crushed/run-over by construction equipment during, 1.9068291481984674
+row, col, comp_r,  Heat/hypothermia,  Electric shock, other and unknown cause, 1.5738042019393028
+row, col, comp_r,  Heat/hypothermia,  Crushed/run-over/trapped of operator by operating, 3.5499114866767543
+row, col, comp_r,  Heat/hypothermia,  Fall, other, 1.5662562022476014
+row, col, comp_r,  Heat/hypothermia,  Other, 1.5457128766744468
+row, col, comp_r,  Heat/hypothermia,  Drown, non-lethal fall, 2.666334375177933
+row, col, comp_r,  Heat/hypothermia,  Trench collapse, 1.8942216706090782
+row, col, comp_r,  Heat/hypothermia,  Electrocution by equipment contacting wire, 1.8116149793318992
+row, col, comp_r,  Heat/hypothermia,  Fire/explosion, 3.734558238396273
+row, col, comp_r,  Heat/hypothermia,  Unloading-loading equipment/material (except by cr, 2.441558136928024
+row, col, comp_r,  Heat/hypothermia,  Electrocution from equipment installation/tool use, 2.185421610917741
+row, col, comp_r,  Heat/hypothermia,  Fall from/with platform catwalk (attached to struc, 2.73069375575775
+row, col, comp_r,  Heat/hypothermia,  Asphyxiation/inhalation of toxic vapor, 3.782926391625889
+row, col, comp_r,  Heat/hypothermia,  Fall from roof, 2.787519013329407
+row, col, comp_r,  Heat/hypothermia,  Fall from/with ladder, 2.6793913788904673
+row, col, comp_r,  Heat/hypothermia,  Collapse of structure, 2.0421826335809468
+row, col, comp_r,  Heat/hypothermia,  Fall from/with scaffold, 2.30824132738976
+row, col, comp_r,  Heat/hypothermia,  Lifting operations, 1.5464807205474114
+row, col, comp_r,  Heat/hypothermia, Non record, 2.5585111058558763
+row, col, comp_r,  Heat/hypothermia,  Elevator (struck by elevator or counter-weights), 3.029679965775208
+row, col, comp_r,  Heat/hypothermia,  Electrocution by touching exposed wire/source, 3.74062766842703
+row, col, comp_r,  Heat/hypothermia,  Caught in stationary equipment, 2.4766653940431964
+row, col, comp_r,  Heat/hypothermia,  Crushed/run-over by highway vehicle, 3.07185424461643
+row, col, comp_r,  Heat/hypothermia,  Struck by falling object/projectile, 3.554524856822952
+row, col, comp_r,  Heat/hypothermia,  Fall through opening (other than roof), 2.105249173637897
+row, col, comp_r,  Heat/hypothermia,  Heat/hypothermia, 4.9138512384408
+row, col, comp_r,  Heat/hypothermia,  Fall from vehicle (vehicle/construction equipment), 2.127167016305652
+row, col, comp_r,  Heat/hypothermia,  Fall from/with structure (other than roof), 2.176197209202121
+row, col, comp_r,  Heat/hypothermia,  Fall from/with bucket (aerial lift/basket), 3.7106828780540706
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Crushed/run-over of non-operator by operating cons, 2.7137454177796165
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Wall (earthen) collapse, 2.6417007095642258
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Crushed/run-over by construction equipment during, 3.2910809515547443
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Electric shock, other and unknown cause, 2.535509169236022
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Crushed/run-over/trapped of operator by operating, 2.8362267955397917
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Fall, other, 3.970903849104151
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Other, 2.3578503206411527
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Drown, non-lethal fall, 3.9777089756104895
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Trench collapse, 2.1213479860832196
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Electrocution by equipment contacting wire, 3.3734364541611255
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Fire/explosion, 2.2997222555863086
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Unloading-loading equipment/material (except by cr, 2.2557550495423753
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Electrocution from equipment installation/tool use, 3.795593646098144
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Fall from/with platform catwalk (attached to struc, 3.5574878686980886
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Asphyxiation/inhalation of toxic vapor, 2.5526591940733
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Fall from roof, 4.250080922797177
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Fall from/with ladder, 3.0650292800881815
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Collapse of structure, 1.8825743834268067
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Fall from/with scaffold, 3.586749252653466
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Lifting operations, 2.8343533082178216
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment), Non record, 2.0017972080959052
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Elevator (struck by elevator or counter-weights), 2.879576838364474
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Electrocution by touching exposed wire/source, 2.2781809478387247
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Caught in stationary equipment, 3.6691430857681855
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Crushed/run-over by highway vehicle, 3.915037174746349
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Struck by falling object/projectile, 2.9809929519984695
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Fall through opening (other than roof), 3.7276669776358933
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Heat/hypothermia, 2.120622237354731
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Fall from vehicle (vehicle/construction equipment), 4.7660734997156515
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Fall from/with structure (other than roof), 3.4073977008859684
+row, col, comp_r,  Fall from vehicle (vehicle/construction equipment),  Fall from/with bucket (aerial lift/basket), 4.13733513458561
+row, col, comp_r,  Fall from/with structure (other than roof),  Crushed/run-over of non-operator by operating cons, 2.242508462524542
+row, col, comp_r,  Fall from/with structure (other than roof),  Wall (earthen) collapse, 3.72750975190052
+row, col, comp_r,  Fall from/with structure (other than roof),  Crushed/run-over by construction equipment during, 2.559852269470336
+row, col, comp_r,  Fall from/with structure (other than roof),  Electric shock, other and unknown cause, 2.18292101415081
+row, col, comp_r,  Fall from/with structure (other than roof),  Crushed/run-over/trapped of operator by operating, 2.438416415719315
+row, col, comp_r,  Fall from/with structure (other than roof),  Fall, other, 3.923424985773928
+row, col, comp_r,  Fall from/with structure (other than roof),  Other, 3.5396650592901846
+row, col, comp_r,  Fall from/with structure (other than roof),  Drown, non-lethal fall, 2.1076238239383662
+row, col, comp_r,  Fall from/with structure (other than roof),  Trench collapse, 2.1715236177721984
+row, col, comp_r,  Fall from/with structure (other than roof),  Electrocution by equipment contacting wire, 2.0628839758224684
+row, col, comp_r,  Fall from/with structure (other than roof),  Fire/explosion, 2.023156697869996
+row, col, comp_r,  Fall from/with structure (other than roof),  Unloading-loading equipment/material (except by cr, 2.754718535610386
+row, col, comp_r,  Fall from/with structure (other than roof),  Electrocution from equipment installation/tool use, 1.9582437568433517
+row, col, comp_r,  Fall from/with structure (other than roof),  Fall from/with platform catwalk (attached to struc, 4.053071404132304
+row, col, comp_r,  Fall from/with structure (other than roof),  Asphyxiation/inhalation of toxic vapor, 2.772329063574798
+row, col, comp_r,  Fall from/with structure (other than roof),  Fall from roof, 3.763994143009429
+row, col, comp_r,  Fall from/with structure (other than roof),  Fall from/with ladder, 4.137514907019746
+row, col, comp_r,  Fall from/with structure (other than roof),  Collapse of structure, 3.243196177484438
+row, col, comp_r,  Fall from/with structure (other than roof),  Fall from/with scaffold, 4.097317780660459
+row, col, comp_r,  Fall from/with structure (other than roof),  Lifting operations, 1.9851646240494565
+row, col, comp_r,  Fall from/with structure (other than roof), Non record, 2.0549001975801833
+row, col, comp_r,  Fall from/with structure (other than roof),  Elevator (struck by elevator or counter-weights), 3.62138220485553
+row, col, comp_r,  Fall from/with structure (other than roof),  Electrocution by touching exposed wire/source, 2.218222677359613
+row, col, comp_r,  Fall from/with structure (other than roof),  Caught in stationary equipment, 1.9960195768793842
+row, col, comp_r,  Fall from/with structure (other than roof),  Crushed/run-over by highway vehicle, 2.326073008079467
+row, col, comp_r,  Fall from/with structure (other than roof),  Struck by falling object/projectile, 2.641518485048984
+row, col, comp_r,  Fall from/with structure (other than roof),  Fall through opening (other than roof), 4.125382946423009
+row, col, comp_r,  Fall from/with structure (other than roof),  Heat/hypothermia, 2.1674241019541087
+row, col, comp_r,  Fall from/with structure (other than roof),  Fall from vehicle (vehicle/construction equipment), 3.4053570630968926
+row, col, comp_r,  Fall from/with structure (other than roof),  Fall from/with structure (other than roof), 4.748460114291886
+row, col, comp_r,  Fall from/with structure (other than roof),  Fall from/with bucket (aerial lift/basket), 4.27158365321214
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Crushed/run-over of non-operator by operating cons, 2.039389239347205
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Wall (earthen) collapse, 2.7551244574818776
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Crushed/run-over by construction equipment during, 2.6704107337585605
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Electric shock, other and unknown cause, 1.678363255244801
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Crushed/run-over/trapped of operator by operating, 2.9681111476852267
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Fall, other, 3.158820153192719
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Other, 1.758332085758903
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Drown, non-lethal fall, 3.0202416250793176
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Trench collapse, 2.0201578406000986
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Electrocution by equipment contacting wire, 2.1281925946933953
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Fire/explosion, 2.8527304576532577
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Unloading-loading equipment/material (except by cr, 2.5746805335129017
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Electrocution from equipment installation/tool use, 2.919589653934712
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Fall from/with platform catwalk (attached to struc, 4.116003410565001
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Asphyxiation/inhalation of toxic vapor, 2.7617493318912696
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Fall from roof, 3.922087237320387
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Fall from/with ladder, 4.159522644943207
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Collapse of structure, 1.7623960051382845
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Fall from/with scaffold, 4.083325727193879
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Lifting operations, 2.5458753854590617
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket), Non record, 1.7503642886658395
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Elevator (struck by elevator or counter-weights), 3.4722901053131827
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Electrocution by touching exposed wire/source, 1.7536299027829345
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Caught in stationary equipment, 2.552197502054283
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Crushed/run-over by highway vehicle, 2.554895663519492
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Struck by falling object/projectile, 2.7048662026241383
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Fall through opening (other than roof), 3.88915159525862
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Heat/hypothermia, 3.6939040366649953
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Fall from vehicle (vehicle/construction equipment), 4.128182875953247
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Fall from/with structure (other than roof), 4.269603820388792
+row, col, comp_r,  Fall from/with bucket (aerial lift/basket),  Fall from/with bucket (aerial lift/basket), 4.847871844920771
