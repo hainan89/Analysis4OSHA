@@ -8,38 +8,36 @@ class ClasesCode(object):
     def __init__(self):
         pass
     
-    DegreeTypeCode = {
-        'Non Hospitalized injury': 1, 
-        'Non record': 2, 
-        'Hospitalized injury': 3, 
-        'Fatality': 4
-    }
+    DegreeTypeCode =   { 
+      "Fatality" : 2 ,
+      "Non record" : 0 ,
+      "Non Hospitalized injury" : 3 ,
+      "Hospitalized injury" : 1}
     
-    NatureTypeCode = {
-     "Puncture": 1,
-     "Dermatitis": 8,
-     "Electric Shock": 2,
-     "Heat Exhaustion": 2,
-     "Burn(Chemical)": 1,
-     "Cut/Laceration": 7,
-     "Bruise/Contus/Abras": 7,
-     "Fracture": 1,
-     "Concussion": 3,
-     "Radiation Effects": 3,
-     "Hearing Loss": 5,
-     "Amputation": 1,
-     "Hernia": 1,
-     "Burn/Scald(Heat)": 1,
-     "Asphyxia": 1,
-     "Dislocation": 5,
-     "Freezing/Frost Bite": 7,
-     "Poisoning(Systemic)": 1,
-     "Non record": 8,
-     "Other": 6,
-     "Foreign Body Ineye": 4,
-     "Strain/Sprain": 7,
-     "Cancer": 3
-    }
+    NatureTypeCode =   { 
+      "Cancer" : 0 ,
+      "Strain/Sprain" : 0 ,
+      "Other" : 2 ,
+      "Foreign Body Ineye" : 0 ,
+      "Burn(Chemical)" : 0 ,
+      "Freezing/Frost Bite" : 0 ,
+      "Dislocation" : 0 ,
+      "Concussion" : 3 ,
+      "Hearing Loss" : 0 ,
+      "Poisoning(Systemic)" : 0 ,
+      "Cut/Laceration" : 0 ,
+      "Heat Exhaustion" : 0 ,
+      "Radiation Effects" : 0 ,
+      "Electric Shock" : 0 ,
+      "Asphyxia" : 0 ,
+      "Amputation" : 0 ,
+      "Burn/Scald(Heat)" : 0 ,
+      "Non record" : 0 ,
+      "Bruise/Contus/Abras" : 4 ,
+      "Hernia" : 0 ,
+      "Puncture" : 0 ,
+      "Dermatitis" : 0 ,
+      "Fracture" : 1}
     
     OccupationTypeCode = {
      "Sheetmetal duct installers": 1,
