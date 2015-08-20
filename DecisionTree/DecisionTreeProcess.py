@@ -67,19 +67,20 @@ if __name__ == '__main__':
                           "EventType","SourceInjury","PartBody"    ,"ProjType"   ,"ProjCost"         ,"EndUse"]
     
     need_analysis_flag = [0          ,0             ,0             ,1            ,1         ,
-                          0          ,1             ,0             ,0            ,0         ,
-                          0          ,0             ,0             ,1            ,1         ,         0]
+                          1          ,1             ,1             ,1            ,1         ,
+                          1          ,1             ,0             ,1            ,1         ,         1]
     
     
     
-    x , y = generate_decesion_data_set("coded_data_set.csv", need_analysis_flag)
+    x , y = generate_decesion_data_set("coded_data_set_based_5_items.csv", need_analysis_flag)
     
     sample_p_test = np.arange(50, 100, 5) / 100
     
     
     one_test_size = 0
-    test_times = 50
+    test_times = 2
     multi_test_result = []
+    multi_test_import_feature_r = []
     for test_i in np.arange(1, test_times, 1):
         accuracy_test = []
         
@@ -90,32 +91,34 @@ if __name__ == '__main__':
             current_dt, current_accu, current_feature_importances = decision_tree_analysis(x, y, each_p, 3)
             accuracy_test.append(current_accu)
             feature_importance_test.append(current_feature_importances)
-#             print("SampleP :", each_p, "  Accuracy :", current_accu)      
+            print("SampleP :", each_p, "  Accuracy :", current_accu, "current_feature_importances", current_feature_importances)
+               
         
         one_test_size = np.size(np.array(accuracy_test))
         multi_test_result.append(np.array(accuracy_test))
+#         multi_test_import_feature_r.append(np.array(feature_importance_test))
     
-    temp_sum_np_array = np.zeros(one_test_size)
-    
-    multi_test_array = np.array(multi_test_result)
-    
-    print(np.size(multi_test_array[:, 1]))
-    
-    for each_item in multi_test_result:
-        temp_sum_np_array = temp_sum_np_array + each_item
-        
-    mean_accuracy = temp_sum_np_array / (test_times - 1)
-        
-    
-    
-
+#     temp_sum_np_array = np.zeros(one_test_size)
 #     
-    f, ax = plt.subplots(figsize=(7,5))
-    ax.plot(sample_p_test, mean_accuracy, color="k")
-    ax.set_title("Decision Tree Accuracy")
-    ax.set_ylabel("% Correct")
-    ax.set_xlabel("Sample Probability")
-    f.show()
+#     multi_test_array = np.array(multi_test_result)
+#     
+#     print(np.size(multi_test_array[:, 1]))
+#     
+#     for each_item in multi_test_result:
+#         temp_sum_np_array = temp_sum_np_array + each_item
+#         
+#     mean_accuracy = temp_sum_np_array / (test_times - 1)
+#         
+#     
+#     
+# 
+# #     
+#     f, ax = plt.subplots(figsize=(7,5))
+#     ax.plot(sample_p_test, mean_accuracy, color="k")
+#     ax.set_title("Decision Tree Accuracy")
+#     ax.set_ylabel("% Correct")
+#     ax.set_xlabel("Sample Probability")
+#     f.show()
     
 
 #     y_comp = dt_ci.feature_importances_

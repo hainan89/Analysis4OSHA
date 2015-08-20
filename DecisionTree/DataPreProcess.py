@@ -41,11 +41,19 @@ def obtain_class_code(classification_dict_v):
     total_records = 0
     for k, v in classification_dict_v.items():
         total_records = total_records + v
-    valid_records = total_records - classification_dict_v["Non record"]
+#     valid_records = total_records - classification_dict_v["Non record"]
     
     sorted_dict_by_v = sorted(classification_dict_v.items(), key=lambda classification_dict_v:classification_dict_v[1], reverse = True)
+    
     iterate_code_v = 0
     class_p = 0
+    
+    valid_records = 0
+#     sorted_dict_list = list(sorted_dict_by_v.items())
+    if sorted_dict_by_v[0][0] == "Non record":
+        valid_records = sorted_dict_by_v[1][1]
+    else:
+        valid_records = sorted_dict_by_v[0][1]
     
     for (k, v) in sorted_dict_by_v:
         
@@ -106,7 +114,7 @@ def purify_dataset():
     proj_cost_classes_code = obtian_class_code_by_item_name("ProjCost")
     end_use_classes_code = obtian_class_code_by_item_name("EndUse")
     
-    with open('coded_data_set.csv', 'w', newline='') as comp_r_csv:
+    with open('coded_data_set_all_expand_01.csv', 'w', newline='') as comp_r_csv:
         spamwriter = csv.writer(comp_r_csv, dialect='excel')
         spamwriter.writerow(storage_data_header)
         for row_v in data_list:
@@ -118,15 +126,15 @@ def purify_dataset():
                     row.append("Non record")
                 else:
                     row.append(row_v[in_row_index])
-            print(row)
+#             print(row)
     
             SummaryNr = row[0]
             Degree = degree_classes_code[row[1]]
             if Degree == 0:
                 continue
             Nature = nature_classes_code[row[2]]
-            if Nature == 0:
-                continue
+#             if Nature == 0:
+#                 continue
             Occupation = occupation_classes_code[row[3]]
             if Occupation == 0:
                 continue
@@ -159,8 +167,8 @@ def purify_dataset():
             if SourceInjury == 0:
                 continue
             PartBody = part_body_classes_code[row[12]]
-            if PartBody == 0:
-                continue
+#             if PartBody == 0:
+#                 continue
             ProjType = proj_type_classes_code[row[13]]
             if ProjType == 0:
                 continue
@@ -184,34 +192,34 @@ def purify_dataset():
 if __name__ == '__main__':
     # obtain the original classification statistics data 
     
-    purify_dataset()
+#     purify_dataset()
     
-#     #### print the statistics data
-#     print("Nature")
-#     nature_classes_code = obtian_class_code_by_item_name("Nature")
-#     print("Degree")
-#     degree_classes_code = obtian_class_code_by_item_name("Degree")
-#     print("Occupation")
-#     occupation_classes_code = obtian_class_code_by_item_name("Occupation")
-#     print("Cause")
-#     cause_classes_code = obtian_class_code_by_item_name("Cause")
-#     print("FatCause")
-#     fat_cause_classes_code = obtian_class_code_by_item_name("FatCause")
-#     print("TaskAssigned")
-#     task_assigned_classes_code = obtian_class_code_by_item_name("TaskAssigned")
-#     print("HumanFactor")
-#     human_factor_classes_code = obtian_class_code_by_item_name("HumanFactor")
-#     print("EnvironmentFactor")
-#     env_factor_classes_code = obtian_class_code_by_item_name("EnvironmentFactor")
-#     print("EventType")
-#     event_type_classes_code = obtian_class_code_by_item_name("EventType")
-#     print("SourceInjury")
-#     source_injury_classes_code = obtian_class_code_by_item_name("SourceInjury")
-#     print("PartBody")
-#     part_body_classes_code = obtian_class_code_by_item_name("PartBody")
-#     print("ProjType")
-#     proj_type_classes_code = obtian_class_code_by_item_name("ProjType")
-#     print("ProjCost")
-#     proj_cost_classes_code = obtian_class_code_by_item_name("ProjCost")
-#     print("EndUse")
-#     end_use_classes_code = obtian_class_code_by_item_name("EndUse")
+    #### print the statistics data
+    print("Nature")
+    nature_classes_code = obtian_class_code_by_item_name("Nature")
+    print("Degree")
+    degree_classes_code = obtian_class_code_by_item_name("Degree")
+    print("Occupation")
+    occupation_classes_code = obtian_class_code_by_item_name("Occupation")
+    print("Cause")
+    cause_classes_code = obtian_class_code_by_item_name("Cause")
+    print("FatCause")
+    fat_cause_classes_code = obtian_class_code_by_item_name("FatCause")
+    print("TaskAssigned")
+    task_assigned_classes_code = obtian_class_code_by_item_name("TaskAssigned")
+    print("HumanFactor")
+    human_factor_classes_code = obtian_class_code_by_item_name("HumanFactor")
+    print("EnvironmentFactor")
+    env_factor_classes_code = obtian_class_code_by_item_name("EnvironmentFactor")
+    print("EventType")
+    event_type_classes_code = obtian_class_code_by_item_name("EventType")
+    print("SourceInjury")
+    source_injury_classes_code = obtian_class_code_by_item_name("SourceInjury")
+    print("PartBody")
+    part_body_classes_code = obtian_class_code_by_item_name("PartBody")
+    print("ProjType")
+    proj_type_classes_code = obtian_class_code_by_item_name("ProjType")
+    print("ProjCost")
+    proj_cost_classes_code = obtian_class_code_by_item_name("ProjCost")
+    print("EndUse")
+    end_use_classes_code = obtian_class_code_by_item_name("EndUse")

@@ -1,0 +1,453 @@
+Nature
+| Fracture | 1 | 6422 | 6422 | 1.0 | 13920
+| Other | 2 | 2412 | 6422 | 0.3755839302398007 | 13920
+| Concussion | 3 | 1718 | 6422 | 0.2675179071940206 | 13920
+| Bruise/Contus/Abras | 4 | 1196 | 6422 | 0.1862348178137652 | 13920
+| Non record | 0 | 1084 | 6422 | 0 | 13920
+| Cut/Laceration | 5 | 352 | 6422 | 0.05481158517595765 | 13920
+| Strain/Sprain | 0 | 204 | 6422 | 0.031765805045157275 | 13920
+| Dislocation | 0 | 141 | 6422 | 0.02195577701650576 | 13920
+| Puncture | 0 | 138 | 6422 | 0.02148863282466521 | 13920
+| Electric Shock | 0 | 96 | 6422 | 0.01494861413889754 | 13920
+| Asphyxia | 0 | 38 | 6422 | 0.005917159763313609 | 13920
+| Burn/Scald(Heat) | 0 | 32 | 6422 | 0.004982871379632514 | 13920
+| Amputation | 0 | 29 | 6422 | 0.004515727187791965 | 13920
+| Cancer | 0 | 14 | 6422 | 0.0021800062285892243 | 13920
+| Freezing/Frost Bite | 0 | 13 | 6422 | 0.0020242914979757085 | 13920
+| Burn(Chemical) | 0 | 9 | 6422 | 0.0014014325755216444 | 13920
+| Hernia | 0 | 6 | 6422 | 0.0009342883836810962 | 13920
+| Heat Exhaustion | 0 | 4 | 6422 | 0.0006228589224540642 | 13920
+| Foreign Body Ineye | 0 | 4 | 6422 | 0.0006228589224540642 | 13920
+| Poisoning(Systemic) | 0 | 3 | 6422 | 0.0004671441918405481 | 13920
+| Hearing Loss | 0 | 2 | 6422 | 0.0003114294612270321 | 13920
+| Dermatitis | 0 | 2 | 6422 | 0.0003114294612270321 | 13920
+| Radiation Effects | 0 | 1 | 6422 | 0.00015571473061351605 | 13920
+Degree
+| Hospitalized injury | 1 | 6486 | 6486 | 1.0 | 13920
+| Fatality | 2 | 5434 | 6486 | 0.837804502004317 | 13920
+| Non record | 0 | 1084 | 6486 | 0 | 13920
+| Non Hospitalized injury | 3 | 916 | 6486 | 0.14122725871107 | 13920
+Occupation
+| Occupation not reported | 1 | 5088 | 5088 | 1.0 | 13920
+| Carpenters | 2 | 1364 | 5088 | 0.26808176100628933 | 13920
+| Construction laborers | 3 | 1338 | 5088 | 0.26297169811320753 | 13920
+| Roofers | 4 | 1058 | 5088 | 0.20794025157232704 | 13920
+| Non record | 0 | 851 | 5088 | 0 | 13920
+| Structural metal workers | 5 | 535 | 5088 | 0.10514937106918239 | 13920
+| Construction trades, n.e.c. | 6 | 509 | 5088 | 0.10003930817610063 | 13920
+| Painters, construction and maintenance | 7 | 465 | 5088 | 0.09139150943396226 | 13920
+| Electricians | 0 | 232 | 5088 | 0.04559748427672956 | 13920
+| Drywall installers | 0 | 202 | 5088 | 0.03970125786163522 | 13920
+| Supervisors; carpenters and related workers | 0 | 169 | 5088 | 0.033215408805031446 | 13920
+| Brickmasons and stonemasons | 0 | 162 | 5088 | 0.031839622641509434 | 13920
+| Plasterers | 0 | 135 | 5088 | 0.02653301886792453 | 13920
+| Helpers, construction trades | 0 | 130 | 5088 | 0.025550314465408806 | 13920
+| Carpenter apprentices | 0 | 123 | 5088 | 0.024174528301886794 | 13920
+| Plumbers, pipefitters and steamfitters | 0 | 120 | 5088 | 0.02358490566037736 | 13920
+| Supervisors, n.e.c. | 0 | 113 | 5088 | 0.022209119496855344 | 13920
+| Welders and cutters | 0 | 82 | 5088 | 0.01611635220125786 | 13920
+| Electrical power installers and repairers | 0 | 81 | 5088 | 0.015919811320754717 | 13920
+| Electricians' apprentices | 0 | 75 | 5088 | 0.01474056603773585 | 13920
+| Concrete and terrazzo finishers | 0 | 75 | 5088 | 0.01474056603773585 | 13920
+| Sheetmetal duct installers | 0 | 66 | 5088 | 0.012971698113207548 | 13920
+| Heating, air conditioning, and refrig. mechanics | 0 | 53 | 5088 | 0.010416666666666666 | 13920
+| Laborers, except construction | 0 | 50 | 5088 | 0.009827044025157232 | 13920
+| Sheet metal workers | 0 | 49 | 5088 | 0.009630503144654088 | 13920
+| Plumber, pipefitter and steamfiter apprentices | 0 | 47 | 5088 | 0.009237421383647798 | 13920
+| Brickmasons and stonemasons apprentices | 0 | 40 | 5088 | 0.007861635220125786 | 13920
+| Supervisors; brickmasons, stonemasons, tilesetters | 0 | 38 | 5088 | 0.007468553459119497 | 13920
+| Insulation Workers | 0 | 35 | 5088 | 0.006878930817610063 | 13920
+| Supervisors; painters, paperhangers and plasterers | 0 | 33 | 5088 | 0.006485849056603774 | 13920
+| Glaziers | 0 | 30 | 5088 | 0.00589622641509434 | 13920
+| Telephone line installers and repairers | 0 | 28 | 5088 | 0.00550314465408805 | 13920
+| Millwrights | 0 | 26 | 5088 | 0.005110062893081761 | 13920
+| Electrical and electronic technicians | 0 | 24 | 5088 | 0.0047169811320754715 | 13920
+| Elevator installers and repairers | 0 | 23 | 5088 | 0.004520440251572327 | 13920
+| Electronic repairers, communica. & indus. equip. | 0 | 20 | 5088 | 0.003930817610062893 | 13920
+| Supervisors; plumbers, pipefitters & steamfitters | 0 | 20 | 5088 | 0.003930817610062893 | 13920
+| Supervisors; handlers,equip-cleaners,laborers nec | 0 | 18 | 5088 | 0.003537735849056604 | 13920
+| Crane and tower operators | 0 | 17 | 5088 | 0.0033411949685534592 | 13920
+| Not specified mechanics and repairers | 0 | 15 | 5088 | 0.00294811320754717 | 13920
+| Boilermakers | 0 | 14 | 5088 | 0.002751572327044025 | 13920
+| Supervisors; electricians & power transm. install. | 0 | 14 | 5088 | 0.002751572327044025 | 13920
+| Tile setters, hard and soft | 0 | 13 | 5088 | 0.0025550314465408804 | 13920
+| Truck drivers, heavy | 0 | 13 | 5088 | 0.0025550314465408804 | 13920
+| Misc. electrical & electronic equipment repairers | 0 | 12 | 5088 | 0.0023584905660377358 | 13920
+| Paving, surfacing and tamping equipment operators | 0 | 12 | 5088 | 0.0023584905660377358 | 13920
+| Industrial truck and tractor equipment operators | 0 | 11 | 5088 | 0.002161949685534591 | 13920
+| Miscellaneous material moving equipment operators | 0 | 11 | 5088 | 0.002161949685534591 | 13920
+| Technicians, n.e.c. | 0 | 10 | 5088 | 0.0019654088050314465 | 13920
+| Helpers, mechanics and repairers | 0 | 10 | 5088 | 0.0019654088050314465 | 13920
+| Supervisors, mechanics and repairers | 0 | 9 | 5088 | 0.001768867924528302 | 13920
+| Managers and administrators, n.e.c | 0 | 8 | 5088 | 0.0015723270440251573 | 13920
+| Construction inspectors | 0 | 8 | 5088 | 0.0015723270440251573 | 13920
+| Miscellaneous hand working occupations | 0 | 8 | 5088 | 0.0015723270440251573 | 13920
+| Machinery maintenance occupations | 0 | 8 | 5088 | 0.0015723270440251573 | 13920
+| Mining machine operators | 0 | 8 | 5088 | 0.0015723270440251573 | 13920
+| Painting and paint spraying machine operators | 0 | 8 | 5088 | 0.0015723270440251573 | 13920
+| Communications equipment operators, n.e.c. | 0 | 7 | 5088 | 0.0013757861635220125 | 13920
+| Mechanical engineering technicians | 0 | 7 | 5088 | 0.0013757861635220125 | 13920
+| Hand painting, coating and decorating occupations | 0 | 7 | 5088 | 0.0013757861635220125 | 13920
+| Sheet metal worker apprentices | 0 | 7 | 5088 | 0.0013757861635220125 | 13920
+| Excavating and loading machine operators | 0 | 7 | 5088 | 0.0013757861635220125 | 13920
+| Telephone installers and repairers | 0 | 7 | 5088 | 0.0013757861635220125 | 13920
+| Janitors and cleaners | 0 | 6 | 5088 | 0.0011792452830188679 | 13920
+| Drillers, earth | 0 | 6 | 5088 | 0.0011792452830188679 | 13920
+| Assemblers | 0 | 6 | 5088 | 0.0011792452830188679 | 13920
+| Grader, dozer and scraper operators | 0 | 5 | 5088 | 0.0009827044025157233 | 13920
+| Specified mechanics and repairers | 0 | 5 | 5088 | 0.0009827044025157233 | 13920
+| Heavy equipment mechanics | 0 | 5 | 5088 | 0.0009827044025157233 | 13920
+| Management related occupations, n.e.c. | 0 | 5 | 5088 | 0.0009827044025157233 | 13920
+| Inspectors, testers and graders | 0 | 5 | 5088 | 0.0009827044025157233 | 13920
+| Hand packers and packagers | 0 | 4 | 5088 | 0.0007861635220125787 | 13920
+| Precision assemblers, metal | 0 | 4 | 5088 | 0.0007861635220125787 | 13920
+| Civil engineers | 0 | 4 | 5088 | 0.0007861635220125787 | 13920
+| Carpet installers | 0 | 4 | 5088 | 0.0007861635220125787 | 13920
+| Hand cutting and trimming occupations | 0 | 3 | 5088 | 0.0005896226415094339 | 13920
+| Sales workers, hardware and building supplies | 0 | 3 | 5088 | 0.0005896226415094339 | 13920
+| Supervisors, production occupations | 0 | 3 | 5088 | 0.0005896226415094339 | 13920
+| Operating engineers | 0 | 3 | 5088 | 0.0005896226415094339 | 13920
+| Supervisors, cleaning and building service workers | 0 | 3 | 5088 | 0.0005896226415094339 | 13920
+| Engineering technicians, n.e.c. | 0 | 3 | 5088 | 0.0005896226415094339 | 13920
+| Helpers, extractive occupations | 0 | 3 | 5088 | 0.0005896226415094339 | 13920
+| Farm workers | 0 | 3 | 5088 | 0.0005896226415094339 | 13920
+| Miscellaneous precision metal workers | 0 | 3 | 5088 | 0.0005896226415094339 | 13920
+| Painters, sculptors, craft-artists & printmakers | 0 | 3 | 5088 | 0.0005896226415094339 | 13920
+| Lathe and turning machine set-up operators | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Lay-out workers | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Cabinet makers and bench carpenters | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Fire inspection and fire prevention occupations | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Drilling and boring machine operators | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Timber cutting and logging occupations | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Supervisors, motor vehicle operators | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Supervisors and proprietors, sales occupations | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Groundskeepers and gardeners, except farm | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Miscellaneous precision woodworkers | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Truck drivers, light | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Mechanical engineers | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Drillers, oil well | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Production helpers | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Sales engineers | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Forestry workers, except logging | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Data processing equipment repairers | 0 | 2 | 5088 | 0.00039308176100628933 | 13920
+| Water and sewage treatment plant operators | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Industrial engineers | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Optometrists | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Managers, marketing, advertising, & public rela. | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Miscellaneous precision workers, n.e.c. | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Tool and die makers | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Sociology teachers | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Sales occupations, other business services | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Hoist and winch operators | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Trade and industrial teachers | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Stock handlers and baggers | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Supervisors; distrib., sched'g & adjusting clerks | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Science technicians, n.e.c. | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Political science teachers | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Supervisors, forestry and logging workers | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Traffic, shipping and receiving clerks | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Police and detectives, public service | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Supervisors, related agricultural occupations | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Bus, truck and stationary engine mechanics | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Adjusters and calibrators | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Supervisors, food preparation & service occupation | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Sawing machine operators | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Supervisors, extractive occupations | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Motor transportation occuputions n.e.c. | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Machine operators, not specified | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Photographers | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Miscellaneous plant and system operators | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Supervisors, material moving equipment operators | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Computer systems analysts and scientists | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Occupational therapists | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Insurance adjusters, examiners and investigators | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Sales counter clerks | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Vehicle washers and equipment cleaners | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Industrial engineering technicians | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Freight, stock and material handlers, n.e.c. | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Misc. metal,plastic,stone&glass-working; mach. op's | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Hand molders and shapers, except jewelers | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Supervisors, firefighting & fire prevention occupa | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+| Graders and sorters, except agricultural | 0 | 1 | 5088 | 0.00019654088050314466 | 13920
+Cause
+| Non record | 0 | 6448 | 1511 | 0 | 13920
+|  Roofing | 1 | 1511 | 1511 | 1.0 | 13920
+|  Exterior carpentry | 2 | 914 | 1511 | 0.6048974189278623 | 13920
+|  Erecting structural steel | 3 | 396 | 1511 | 0.26207809397749837 | 13920
+|  Installing equipment (HVAC and other) | 4 | 385 | 1511 | 0.25479814692256786 | 13920
+|  Exterior painting | 5 | 356 | 1511 | 0.23560555923229648 | 13920
+|  Installing interior walls, ceilings, doors | 6 | 313 | 1511 | 0.2071475843812045 | 13920
+|  Exterior masonry | 7 | 306 | 1511 | 0.20251489080079418 | 13920
+|  Interior carpentry | 8 | 296 | 1511 | 0.19589675711449372 | 13920
+|  Demolition | 9 | 294 | 1511 | 0.19457313037723362 | 13920
+|  Temporary work (buildings, facilities) | 10 | 227 | 1511 | 0.1502316346790205 | 13920
+|  Installing plumbing, lighting fixtures | 11 | 184 | 1511 | 0.12177365982792852 | 13920
+|  Interior plumbing, ducting, electrical work | 12 | 173 | 1511 | 0.11449371277299801 | 13920
+|  Interior painting and decorating | 13 | 141 | 1511 | 0.09331568497683654 | 13920
+|  Plastering | 14 | 130 | 1511 | 0.08603573792190602 | 13920
+|  Forming | 15 | 127 | 1511 | 0.08405029781601589 | 13920
+|  Installation Of Decking-Initial Laying Deck (Incl | 16 | 123 | 1511 | 0.0814030443414957 | 13920
+|  Other Activities-Post Decking Detail Work | 17 | 113 | 1511 | 0.07478491065519524 | 13920
+|  Installing windows and doors, glazing | 18 | 106 | 1511 | 0.07015221707478492 | 13920
+|  Other Activities-Installing Ornamental And Archite | 19 | 93 | 1511 | 0.06154864328259431 | 13920
+|  Installing metal siding | 20 | 92 | 1511 | 0.06088682991396426 | 13920
+|  Steel Erection Of Solid Web-Connecting | 21 | 86 | 1511 | 0.056915949702183985 | 13920
+|  Fencing, installing lights, signs, etc. | 22 | 80 | 1511 | 0.05294506949040371 | 13920
+|  Exterior cladding | 23 | 76 | 1511 | 0.05029781601588352 | 13920
+|  Interior masonry | 0 | 65 | 1511 | 0.04301786896095301 | 13920
+|  Emplacing reinforcing steel | 0 | 60 | 1511 | 0.03970880211780278 | 13920
+|  Waterproofing | 0 | 53 | 1511 | 0.03507610853739246 | 13920
+|  Pouring concrete foundations and walls | 0 | 50 | 1511 | 0.03309066843150232 | 13920
+|  Pouring or installing floor decks | 0 | 44 | 1511 | 0.02911978821972204 | 13920
+|  Fireproofing | 0 | 37 | 1511 | 0.024487094639311716 | 13920
+|  Site clearing and grubbing | 0 | 36 | 1511 | 0.02382528127068167 | 13920
+|  Elevator, escalator installation | 0 | 36 | 1511 | 0.02382528127068167 | 13920
+|  Excavation | 0 | 35 | 1511 | 0.02316346790205162 | 13920
+|  Stripping and curing concrete | 0 | 29 | 1511 | 0.019192587690271344 | 13920
+|  Steel Erection Of Open Web Steel Joists-Connecting | 0 | 28 | 1511 | 0.018530774321641297 | 13920
+|  Installing culverts and incidental drainage | 0 | 26 | 1511 | 0.017207147584381206 | 13920
+|  Trenching, installing pipe | 0 | 25 | 1511 | 0.01654533421575116 | 13920
+|  Placing bridge girders and beams | 0 | 25 | 1511 | 0.01654533421575116 | 13920
+|  Steel Erection Of Solid Web-Bolting-Up/Detail Work | 0 | 24 | 1511 | 0.01588352084712111 | 13920
+|  Interior tile work (ceramic, vinyl, acoustic) | 0 | 23 | 1511 | 0.015221707478491065 | 13920
+|  Landscaping | 0 | 23 | 1511 | 0.015221707478491065 | 13920
+|  Installation Of Decking-Final Attachment Deck (Wel | 0 | 21 | 1511 | 0.013898080741230973 | 13920
+|  Installing underground plumbing conduit | 0 | 18 | 1511 | 0.011912640635340834 | 13920
+|  Placing bridge deck | 0 | 18 | 1511 | 0.011912640635340834 | 13920
+|  Installation Of Decking-Flashing Of Decking | 0 | 17 | 1511 | 0.011250827266710787 | 13920
+|  Steel Erection Of Solid Web-Welding/Burning/Grindi | 0 | 17 | 1511 | 0.011250827266710787 | 13920
+|  Backfilling and compacting | 0 | 17 | 1511 | 0.011250827266710787 | 13920
+|  Surveying | 0 | 16 | 1511 | 0.010589013898080741 | 13920
+|  Forming for piers or pylons | 0 | 15 | 1511 | 0.009927200529450696 | 13920
+|  Cutting concrete pavement | 0 | 15 | 1511 | 0.009927200529450696 | 13920
+|  Pouring concrete floor at grade | 0 | 14 | 1511 | 0.009265387160820648 | 13920
+|  Paving | 0 | 14 | 1511 | 0.009265387160820648 | 13920
+|  Traffic protection | 0 | 13 | 1511 | 0.008603573792190603 | 13920
+|  Installation Of Decking-Hoisting Bundles | 0 | 12 | 1511 | 0.007941760423560556 | 13920
+|  Site grading and rock removal | 0 | 11 | 1511 | 0.00727994705493051 | 13920
+|  Steel Erection Of Open Web Steel Joists-Bolting-Up | 0 | 10 | 1511 | 0.0066181336863004635 | 13920
+|  Construction of playing fields, tennis courts | 0 | 10 | 1511 | 0.0066181336863004635 | 13920
+|  Steel Erection Of Solid Web-Landing Materials (Hoi | 0 | 9 | 1511 | 0.005956320317670417 | 13920
+|  Steel Erection Of Solid Web-Moving Point To Point | 0 | 9 | 1511 | 0.005956320317670417 | 13920
+|  Dredging | 0 | 9 | 1511 | 0.005956320317670417 | 13920
+|  Steel Erection Of Open Web Steel Joists-Landing Ma | 0 | 8 | 1511 | 0.005294506949040371 | 13920
+|  Steel Erection Of Open Web Steel Joists-Welding/Bu | 0 | 8 | 1511 | 0.005294506949040371 | 13920
+|  Pouring concrete for piers, and pylons | 0 | 8 | 1511 | 0.005294506949040371 | 13920
+|  Bituminous concrete placement | 0 | 7 | 1511 | 0.004632693580410324 | 13920
+|  Steel Erection Of Solid Web-Plumbing-Up | 0 | 7 | 1511 | 0.004632693580410324 | 13920
+|  Steel Erection Of Open Web Steel Joists-Moving Poi | 0 | 6 | 1511 | 0.003970880211780278 | 13920
+|  Pile driving | 0 | 6 | 1511 | 0.003970880211780278 | 13920
+|  Erection of coffer dams, caissons | 0 | 5 | 1511 | 0.0033090668431502318 | 13920
+|  Swimming pool construction | 0 | 4 | 1511 | 0.0026472534745201853 | 13920
+|  Loading dock forming and pouring | 0 | 3 | 1511 | 0.001985440105890139 | 13920
+|  Steel Erection Of Open Web Steel Joists-Plumbing-U | 0 | 2 | 1511 | 0.0013236267372600927 | 13920
+|  Seawall construction, riprap placement | 0 | 2 | 1511 | 0.0013236267372600927 | 13920
+FatCause
+| Non record | 0 | 6383 | 2014 | 0 | 13920
+|  Fall from roof | 1 | 2014 | 2014 | 1.0 | 13920
+|  Fall from/with ladder | 2 | 1263 | 2014 | 0.6271102284011917 | 13920
+|  Fall from/with structure (other than roof) | 3 | 1208 | 2014 | 0.5998013902681232 | 13920
+|  Fall from/with scaffold | 4 | 1080 | 2014 | 0.5362462760675273 | 13920
+|  Fall, other | 5 | 670 | 2014 | 0.3326713008937438 | 13920
+|  Fall through opening (other than roof) | 6 | 475 | 2014 | 0.2358490566037736 | 13920
+|  Collapse of structure | 7 | 188 | 2014 | 0.09334657398212512 | 13920
+|  Fall from/with bucket (aerial lift/basket) | 8 | 173 | 2014 | 0.0858987090367428 | 13920
+|  Fall from/with platform catwalk (attached to struc | 9 | 142 | 2014 | 0.070506454816286 | 13920
+|  Fall from vehicle (vehicle/construction equipment) | 10 | 101 | 2014 | 0.05014895729890765 | 13920
+|  Other | 0 | 56 | 2014 | 0.027805362462760674 | 13920
+|  Struck by falling object/projectile | 0 | 43 | 2014 | 0.02135054617676266 | 13920
+|  Electric shock, other and unknown cause | 0 | 30 | 2014 | 0.014895729890764648 | 13920
+|  Electrocution by touching exposed wire/source | 0 | 14 | 2014 | 0.006951340615690168 | 13920
+|  Crushed/run-over/trapped of operator by operating | 0 | 13 | 2014 | 0.006454816285998014 | 13920
+|  Electrocution by equipment contacting wire | 0 | 12 | 2014 | 0.005958291956305859 | 13920
+|  Drown, non-lethal fall | 0 | 12 | 2014 | 0.005958291956305859 | 13920
+|  Asphyxiation/inhalation of toxic vapor | 0 | 8 | 2014 | 0.003972194637537239 | 13920
+|  Electrocution from equipment installation/tool use | 0 | 7 | 2014 | 0.003475670307845084 | 13920
+|  Caught in stationary equipment | 0 | 6 | 2014 | 0.0029791459781529296 | 13920
+|  Fire/explosion | 0 | 3 | 2014 | 0.0014895729890764648 | 13920
+|  Unloading-loading equipment/material (except by cr | 0 | 3 | 2014 | 0.0014895729890764648 | 13920
+|  Trench collapse | 0 | 3 | 2014 | 0.0014895729890764648 | 13920
+|  Crushed/run-over by construction equipment during | 0 | 3 | 2014 | 0.0014895729890764648 | 13920
+|  Crushed/run-over by highway vehicle | 0 | 2 | 2014 | 0.0009930486593843098 | 13920
+|  Elevator (struck by elevator or counter-weights) | 0 | 2 | 2014 | 0.0009930486593843098 | 13920
+|  Lifting operations | 0 | 2 | 2014 | 0.0009930486593843098 | 13920
+|  Crushed/run-over of non-operator by operating cons | 0 | 2 | 2014 | 0.0009930486593843098 | 13920
+|  Wall (earthen) collapse | 0 | 1 | 2014 | 0.0004965243296921549 | 13920
+|  Heat/hypothermia | 0 | 1 | 2014 | 0.0004965243296921549 | 13920
+TaskAssigned
+| Task regularly assigned | 1 | 11598 | 11598 | 1.0 | 13920
+| Task not regularly assigned | 2 | 1226 | 11598 | 0.10570788066908088 | 13920
+| Non record | 0 | 1096 | 11598 | 0 | 13920
+HumanFactor
+| Misjudgment, Haz. Situation | 1 | 4306 | 4306 | 1.0 | 13920
+| Other | 2 | 1954 | 4306 | 0.45378541569902464 | 13920
+| Safety Devices Removed/Inoper. | 3 | 1634 | 4306 | 0.3794705062703205 | 13920
+| Non record | 0 | 1096 | 4306 | 0 | 13920
+| Equip. Inappropr For Operation | 4 | 1087 | 4306 | 0.25243845796562936 | 13920
+| Insuf/Lack/Protcv Wrk Clthg/Equip | 5 | 872 | 4306 | 0.20250812819321876 | 13920
+| Malfunc In Securing/Warning Op | 6 | 756 | 4306 | 0.1755689735253135 | 13920
+| Position Inapropriate For Task | 7 | 665 | 4306 | 0.1544356711565258 | 13920
+| Mater-Handlg Proced. Inappropr | 8 | 388 | 4306 | 0.09010682768230376 | 13920
+| Insuff/Lack/Engineerng Controls | 9 | 338 | 4306 | 0.07849512308406874 | 13920
+| Insuff/Lack/Writn Wrk Prac Prog. | 10 | 278 | 4306 | 0.06456107756618672 | 13920
+| Perception Malfunc,Task-Envir. | 0 | 204 | 4306 | 0.04737575476079889 | 13920
+| Defective Equipment In Use | 0 | 128 | 4306 | 0.029725963771481654 | 13920
+| Malfunc, Neuromuscular System | 0 | 85 | 4306 | 0.019739897816999537 | 13920
+| Distracting Actions By Others | 0 | 48 | 4306 | 0.01114723641430562 | 13920
+| Insuff/Lack/Housekeeping Program | 0 | 31 | 4306 | 0.007199256850905713 | 13920
+| Lockout/Tagout Proced Malfunc | 0 | 28 | 4306 | 0.006502554575011612 | 13920
+| No Personal Protective Eq Used | 0 | 13 | 4306 | 0.0030190431955411053 | 13920
+| Insuff/Lack/Respiratory Proctect | 0 | 4 | 4306 | 0.0009289363678588017 | 13920
+| Insuff/Lack/Expos/Biologcl Mntrg. | 0 | 3 | 4306 | 0.0006967022758941013 | 13920
+| No Appropr Protective Clothing | 0 | 2 | 4306 | 0.00046446818392940084 | 13920
+EnvironmentFactor
+| Work-Surface/Facil-Layout Cond | 1 | 6804 | 6804 | 1.0 | 13920
+| Other | 2 | 3860 | 6804 | 0.5673133450911229 | 13920
+| Non record | 0 | 1096 | 6804 | 0 | 13920
+| Materials Handlg Equip./Method | 3 | 770 | 6804 | 0.11316872427983539 | 13920
+| Overhead Moving/Falling Obj Ac | 4 | 741 | 6804 | 0.10890652557319223 | 13920
+| Weather, Earthquake, Etc. | 0 | 195 | 6804 | 0.028659611992945325 | 13920
+| Flying Object Action | 0 | 156 | 6804 | 0.02292768959435626 | 13920
+| Catch Point/Puncture Action | 0 | 83 | 6804 | 0.012198706643151088 | 13920
+| Shear Point Action | 0 | 30 | 6804 | 0.004409171075837742 | 13920
+| Illumination | 0 | 30 | 6804 | 0.004409171075837742 | 13920
+| Squeeze Point Action | 0 | 29 | 6804 | 0.004262198706643151 | 13920
+| Gas/Vapor/Mist/Fume/Smoke/Dust | 0 | 24 | 6804 | 0.003527336860670194 | 13920
+| Temperature +/- Tolerance Lev. | 0 | 24 | 6804 | 0.003527336860670194 | 13920
+| Pinch Point Action | 0 | 21 | 6804 | 0.0030864197530864196 | 13920
+| Flammable Liq/Solid Exposure | 0 | 21 | 6804 | 0.0030864197530864196 | 13920
+| Overpressure/Underpressure | 0 | 13 | 6804 | 0.0019106407995296885 | 13920
+| Radiation Condition | 0 | 12 | 6804 | 0.001763668430335097 | 13920
+| Chemical Action/Reaction Expos | 0 | 9 | 6804 | 0.0013227513227513227 | 13920
+| Sound Level | 0 | 2 | 6804 | 0.00029394473838918284 | 13920
+EventType
+| Fall(From Elevation) | 1 | 12028 | 12028 | 1.0 | 13920
+| Non record | 0 | 1096 | 12028 | 0 | 13920
+| Struck By | 0 | 216 | 12028 | 0.017958097771865647 | 13920
+| Fall(Same Level) | 0 | 205 | 12028 | 0.01704356501496508 | 13920
+| Struck Against | 0 | 104 | 12028 | 0.008646491519787164 | 13920
+| Other | 0 | 86 | 12028 | 0.007149983372131693 | 13920
+| Shock | 0 | 77 | 12028 | 0.006401729298303957 | 13920
+| Caught In Or Between | 0 | 50 | 12028 | 0.004156967076820751 | 13920
+| Card-Vasc/Resp Fail. | 0 | 25 | 12028 | 0.0020784835384103756 | 13920
+| Rubbed/Abraded | 0 | 12 | 12028 | 0.0009976720984369804 | 13920
+| Inhalation | 0 | 12 | 12028 | 0.0009976720984369804 | 13920
+| Bite/Sting/Scratch | 0 | 4 | 12028 | 0.0003325573661456601 | 13920
+| Absorption | 0 | 3 | 12028 | 0.0002494180246092451 | 13920
+| Ingestion | 0 | 1 | 12028 | 8.313934153641503e-05 | 13920
+| Rep. Motion/Presure | 0 | 1 | 12028 | 8.313934153641503e-05 | 13920
+SourceInjury
+| Working Surface | 1 | 3963 | 3963 | 1.0 | 13920
+| Buildings/Structures | 2 | 2630 | 3963 | 0.6636386575826394 | 13920
+| Ladder | 3 | 1574 | 3963 | 0.39717385818824125 | 13920
+| Other | 4 | 1531 | 3963 | 0.38632349230381025 | 13920
+| Bodily Motion | 5 | 1464 | 3963 | 0.36941710825132473 | 13920
+| Non record | 0 | 1096 | 3963 | 0 | 13920
+| Hoisting Apparatus | 6 | 484 | 3963 | 0.1221296997224325 | 13920
+| Materials Handlg Eq. | 7 | 264 | 3963 | 0.06661619984859955 | 13920
+| Dirt/Sand/Stone | 0 | 179 | 3963 | 0.04516780217007318 | 13920
+| Elec Apparat/Wiring | 0 | 120 | 3963 | 0.03028009084027252 | 13920
+| Motor Vehicle(Indus) | 0 | 88 | 3963 | 0.022205399949533182 | 13920
+| Machine | 0 | 85 | 3963 | 0.021448397678526368 | 13920
+| Metal Products | 0 | 72 | 3963 | 0.018168054504163512 | 13920
+| Motor Vehicle (Hwy) | 0 | 71 | 3963 | 0.01791572041382791 | 13920
+| Wind/Lightning, Etc. | 0 | 43 | 3963 | 0.010850365884430987 | 13920
+| Person | 0 | 42 | 3963 | 0.010598031794095382 | 13920
+| Water | 0 | 37 | 3963 | 0.009336361342417361 | 13920
+| Hand Tool (Manual) | 0 | 32 | 3963 | 0.008074690890739339 | 13920
+| Hand Tool (Powered) | 0 | 16 | 3963 | 0.0040373454453696694 | 13920
+| Boxes/Barrels, Etc. | 0 | 15 | 3963 | 0.003785011355034065 | 13920
+| Chem Liquids/Vapors | 0 | 12 | 3963 | 0.003028009084027252 | 13920
+| Drugs/Alcohol | 0 | 10 | 3963 | 0.0025233409033560434 | 13920
+| Vibration | 0 | 8 | 3963 | 0.0020186727226848347 | 13920
+| Air Pressure | 0 | 7 | 3963 | 0.0017663386323492304 | 13920
+| Glass | 0 | 7 | 3963 | 0.0017663386323492304 | 13920
+| Furniture/Furnishing | 0 | 6 | 3963 | 0.001514004542013626 | 13920
+| Petroleum Products | 0 | 6 | 3963 | 0.001514004542013626 | 13920
+| Boat | 0 | 6 | 3963 | 0.001514004542013626 | 13920
+| Heat (Envir/Mech) | 0 | 5 | 3963 | 0.0012616704516780217 | 13920
+| Cleaning Compound | 0 | 5 | 3963 | 0.0012616704516780217 | 13920
+| Gases | 0 | 5 | 3963 | 0.0012616704516780217 | 13920
+| Train/Railroad Equip | 0 | 5 | 3963 | 0.0012616704516780217 | 13920
+| Waste Products | 0 | 5 | 3963 | 0.0012616704516780217 | 13920
+| Cold (Envir/Mech) | 0 | 4 | 3963 | 0.0010093363613424174 | 13920
+| Noise | 0 | 3 | 3963 | 0.000757002271006813 | 13920
+| Fire/Smoke | 0 | 3 | 3963 | 0.000757002271006813 | 13920
+| Mists | 0 | 2 | 3963 | 0.0005046681806712087 | 13920
+| Boiler/Press Vessel | 0 | 2 | 3963 | 0.0005046681806712087 | 13920
+| Fume | 0 | 2 | 3963 | 0.0005046681806712087 | 13920
+| Vegetation | 0 | 2 | 3963 | 0.0005046681806712087 | 13920
+| Dust/Particles/Chips | 0 | 2 | 3963 | 0.0005046681806712087 | 13920
+| Motorcycle | 0 | 2 | 3963 | 0.0005046681806712087 | 13920
+| Biological Agent | 0 | 2 | 3963 | 0.0005046681806712087 | 13920
+| Aircraft | 0 | 1 | 3963 | 0.00025233409033560434 | 13920
+| Pump/Prime Mover | 0 | 1 | 3963 | 0.00025233409033560434 | 13920
+| Animal/Ins/Rept/Etc. | 0 | 1 | 3963 | 0.00025233409033560434 | 13920
+PartBody
+| Head | 1 | 3866 | 3866 | 1.0 | 13920
+| Multiple | 2 | 2357 | 3866 | 0.6096740817382307 | 13920
+| Bodysystem | 3 | 1212 | 3866 | 0.31350232798758404 | 13920
+| Non record | 0 | 1096 | 3866 | 0 | 13920
+| Back | 4 | 980 | 3866 | 0.25349198137609935 | 13920
+| Foot/Ankle | 5 | 654 | 3866 | 0.16916709777547853 | 13920
+| Legs | 6 | 591 | 3866 | 0.152871184687015 | 13920
+| Chest | 7 | 438 | 3866 | 0.11329539575788929 | 13920
+| Arm-Mult | 8 | 384 | 3866 | 0.09932747025349198 | 13920
+| Hip(S) | 9 | 340 | 3866 | 0.08794619762027936 | 13920
+| Neck | 10 | 264 | 3866 | 0.06828763579927574 | 13920
+| Wrist(S) | 11 | 256 | 3866 | 0.06621831350232799 | 13920
+| Othbodysys | 12 | 237 | 3866 | 0.06130367304707708 | 13920
+| Lower Leg | 0 | 175 | 3866 | 0.045266425245732024 | 13920
+| Face | 0 | 153 | 3866 | 0.039575788929125714 | 13920
+| Abdomen | 0 | 152 | 3866 | 0.03931712364200724 | 13920
+| Elbow(S) | 0 | 125 | 3866 | 0.03233316088980859 | 13920
+| Shoulder | 0 | 119 | 3866 | 0.030781169167097777 | 13920
+| Hand(S) | 0 | 109 | 3866 | 0.02819451629591309 | 13920
+| Knee(S) | 0 | 97 | 3866 | 0.025090532850491464 | 13920
+| Lower Arm | 0 | 87 | 3866 | 0.022503879979306775 | 13920
+| Upper Leg | 0 | 44 | 3866 | 0.011381272633212623 | 13920
+| Lung | 0 | 43 | 3866 | 0.011122607346094155 | 13920
+| Upper Arm | 0 | 36 | 3866 | 0.009311950336264873 | 13920
+| Liver | 0 | 24 | 3866 | 0.006207966890843249 | 13920
+| Finger(S) | 0 | 24 | 3866 | 0.006207966890843249 | 13920
+| Eye(S) | 0 | 16 | 3866 | 0.004138644593895499 | 13920
+| Reprod-Sys | 0 | 12 | 3866 | 0.0031039834454216243 | 13920
+| Nerve Syst | 0 | 11 | 3866 | 0.0028453181583031556 | 13920
+| Ear(S) | 0 | 7 | 3866 | 0.0018106570098292809 | 13920
+| Kidney | 0 | 6 | 3866 | 0.0015519917227108122 | 13920
+| Blood | 0 | 5 | 3866 | 0.0012933264355923435 | 13920
+ProjType
+| Non record | 0 | 5537 | 4974 | 0 | 13920
+| New project or new addition | 1 | 4974 | 4974 | 1.0 | 13920
+| Alteration or rehabilitation | 2 | 1532 | 4974 | 0.30800160836349016 | 13920
+| Maintenance or repair | 3 | 1351 | 4974 | 0.27161238439887414 | 13920
+| Other | 4 | 316 | 4974 | 0.06353035786087656 | 13920
+| Demolition | 0 | 210 | 4974 | 0.04221954161640531 | 13920
+ProjCost
+| Non record | 0 | 5565 | 2415 | 0 | 13920
+| Under $50,000 | 1 | 2415 | 2415 | 1.0 | 13920
+| $50,000 to $250,000 | 2 | 1563 | 2415 | 0.6472049689440994 | 13920
+| $1,000,000 to $5,000,000 | 3 | 1280 | 2415 | 0.5300207039337475 | 13920
+| $250,000 to $500,000 | 4 | 929 | 2415 | 0.3846790890269151 | 13920
+| $500,000 to $1,000,000 | 5 | 908 | 2415 | 0.37598343685300206 | 13920
+| $5,000,000 to $20,000,000 | 6 | 718 | 2415 | 0.29730848861283643 | 13920
+| $20,000,000 and over | 7 | 542 | 2415 | 0.22443064182194616 | 13920
+EndUse
+| Non record | 0 | 5539 | 2530 | 0 | 13920
+| Commercial building | 1 | 2530 | 2530 | 1.0 | 13920
+| Single family or duplex dwelling | 2 | 2339 | 2530 | 0.9245059288537549 | 13920
+| Other building | 3 | 1335 | 2530 | 0.5276679841897233 | 13920
+| Multi-family dwelling | 4 | 932 | 2530 | 0.3683794466403162 | 13920
+| Manufacturing plant | 5 | 264 | 2530 | 0.10434782608695652 | 13920
+| Tower, tank, storage elevator | 6 | 248 | 2530 | 0.09802371541501977 | 13920
+| Bridge | 7 | 142 | 2530 | 0.05612648221343874 | 13920
+| Sewer/water treatment plant | 8 | 127 | 2530 | 0.050197628458498025 | 13920
+| Highway, road, street | 0 | 102 | 2530 | 0.04031620553359684 | 13920
+| Powerline, transmission line | 0 | 90 | 2530 | 0.03557312252964427 | 13920
+| Powerplant | 0 | 86 | 2530 | 0.03399209486166008 | 13920
+| Other heavy construction | 0 | 83 | 2530 | 0.032806324110671935 | 13920
+| Refinery | 0 | 31 | 2530 | 0.01225296442687747 | 13920
+| Pipeline | 0 | 26 | 2530 | 0.010276679841897233 | 13920
+| Excavation, landfill | 0 | 20 | 2530 | 0.007905138339920948 | 13920
+| Contractor's yard/facility | 0 | 19 | 2530 | 0.007509881422924901 | 13920
+| Shoreline development, dam, reservoir | 0 | 7 | 2530 | 0.002766798418972332 | 13920
